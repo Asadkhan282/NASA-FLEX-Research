@@ -1,0 +1,65 @@
+{
+    "records_analyzed": 273,
+    "correct_predictions": 210,
+    "incorrect_predictions": 63,
+    "completion_records": 27,
+    "correct_completion": 5,
+    "missed_completion": 22,
+    "completion_recall": 0.18518518518518517,
+    "date_grouped_random_forest_macro_f1": 0.5841078305519897,
+    "date_grouped_random_forest_confusion_matrix": [
+        [
+            165,
+            15,
+            5
+        ],
+        [
+            17,
+            40,
+            4
+        ],
+        [
+            13,
+            9,
+            5
+        ]
+    ],
+    "feature_importance": [
+        {
+            "Feature": "O initial ambient composition; mole fraction",
+            "Mean_importance": 0.13106032105232754,
+            "Std_across_folds": 0.10505768764761896,
+            "Mean_permutation_std": 0.05660247568580712
+        },
+        {
+            "Feature": "Droplet initial diameter; mm",
+            "Mean_importance": 0.0999944074110998,
+            "Std_across_folds": 0.05576844394799895,
+            "Mean_permutation_std": 0.03659482397249967
+        },
+        {
+            "Feature": "Fuel",
+            "Mean_importance": 0.07356373368780623,
+            "Std_across_folds": 0.04589137996480461,
+            "Mean_permutation_std": 0.04445136157270343
+        },
+        {
+            "Feature": "CO initial ambient composition; mole fraction",
+            "Mean_importance": 0.0303006629265476,
+            "Std_across_folds": 0.01618361254606151,
+            "Mean_permutation_std": 0.03252580615981569
+        },
+        {
+            "Feature": "Ambient pressure; mmHg",
+            "Mean_importance": 0.009335534692598194,
+            "Std_across_folds": 0.05672922691118844,
+            "Mean_permutation_std": 0.0461619538269205
+        },
+        {
+            "Feature": "He initial ambient composition; mole fraction",
+            "Mean_importance": 0.007874411409782832,
+            "Std_across_folds": 0.03464541693215553,
+            "Mean_permutation_std": 0.03214064860434718
+        }
+    ]
+}

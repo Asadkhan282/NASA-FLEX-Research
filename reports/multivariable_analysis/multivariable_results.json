@@ -1,0 +1,94 @@
+{
+    "analysis": "NASA FLEX multinomial logistic regression",
+    "model_statistics": {
+        "observations": 274,
+        "outcome_reference": "Extinction",
+        "fuel_reference": "Heptane",
+        "predictors": [
+            "oxygen",
+            "methanol"
+        ],
+        "converged": true,
+        "log_likelihood": -162.98365758859524,
+        "null_log_likelihood": -226.25731875827952,
+        "pseudo_r_squared": 0.27965354454360114,
+        "aic": 337.96731517719047,
+        "bic": 359.64608381551886,
+        "overall_likelihood_ratio_p_value": 2.131234035559225e-26
+    },
+    "odds_ratios": {
+        "Disruption_vs_Extinction": {
+            "oxygen": {
+                "display_name": "Oxygen per 0.01 increase",
+                "coefficient": 42.58361662155162,
+                "standard_error": 6.0184238168818815,
+                "odds_ratio": 1.5308699463698294,
+                "ci_95_lower": 1.3605339418052687,
+                "ci_95_upper": 1.7225316625241498,
+                "p_value": 1.4886467043407062e-12,
+                "scale": 0.01
+            },
+            "methanol": {
+                "display_name": "Methanol vs Heptane",
+                "coefficient": -1.584960611132154,
+                "standard_error": 0.4005699939876714,
+                "odds_ratio": 0.20495586593732432,
+                "ci_95_lower": 0.09347480234578322,
+                "ci_95_upper": 0.44939284093616966,
+                "p_value": 7.597217396048039e-05,
+                "scale": 1.0
+            }
+        },
+        "Completion_vs_Extinction": {
+            "oxygen": {
+                "display_name": "Oxygen per 0.01 increase",
+                "coefficient": 25.314161814895442,
+                "standard_error": 6.421487132755424,
+                "odds_ratio": 1.2880656773956751,
+                "ci_95_lower": 1.1357381398990765,
+                "ci_95_upper": 1.4608236978219389,
+                "p_value": 8.077037262465772e-05,
+                "scale": 0.01
+            },
+            "methanol": {
+                "display_name": "Methanol vs Heptane",
+                "coefficient": -1.659908486891496,
+                "standard_error": 0.46758143082990766,
+                "odds_ratio": 0.1901563811068353,
+                "ci_95_lower": 0.07605098934993626,
+                "ci_95_upper": 0.4754632330851893,
+                "p_value": 0.000385248653935466,
+                "scale": 1.0
+            }
+        }
+    },
+    "adjusted_likelihood_ratio_tests": {
+        "methanol_adjusted_for_oxygen": {
+            "likelihood_ratio_chi_square": 24.71391079011721,
+            "degrees_of_freedom": 2,
+            "p_value": 4.299742610590168e-06
+        },
+        "oxygen_adjusted_for_methanol": {
+            "likelihood_ratio_chi_square": 100.12915247928032,
+            "degrees_of_freedom": 2,
+            "p_value": 1.8081347810435326e-22
+        }
+    },
+    "outcome_counts": {
+        "Extinction": 186,
+        "Disruption": 61,
+        "Completion": 27
+    },
+    "fuel_counts": {
+        "Methanol": 157,
+        "Heptane": 117
+    },
+    "method_notes": [
+        "Extinction is the reference outcome.",
+        "Heptane is the reference fuel.",
+        "Oxygen odds ratios are reported per 0.01 mole-fraction increase.",
+        "Confidence intervals use the 95% Wald method.",
+        "Analyses use complete cases for the selected variables.",
+        "Associations do not establish causation."
+    ]
+}

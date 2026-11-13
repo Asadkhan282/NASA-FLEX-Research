@@ -1,0 +1,42 @@
+﻿# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model and temporary backups
+*.backup
+*.bak
+app.py.backup_*
+app_before_prediction_lab.py
+
+# Large installers
+*.exe
+*.msi
+
+# Local practice and unrelated files
+practice/
+data/demo_lab_measurements.csv
+temperature_anomalies.csv
+196F001_Chamber_Readings.txt
+C049H05_Color_Camera_Settings.txt
+FLEX-052_TestSheet.txt
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+PSI-69_metadata_PSI-133_FLEX.zip
+practice_dashboard2.py
+practice_dashboard_corrected.py

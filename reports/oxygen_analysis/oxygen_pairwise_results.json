@@ -1,0 +1,44 @@
+{
+    "method": "Pairwise Mann-Whitney U with Holm correction",
+    "comparisons": [
+        {
+            "group_1": "Extinction",
+            "group_2": "Disruption",
+            "n_1": 186,
+            "n_2": 61,
+            "median_1": 0.18,
+            "median_2": 0.24,
+            "median_difference": 0.06,
+            "U_statistic": 1312.5,
+            "raw_p_value": 1.2909714251666628e-19,
+            "holm_adjusted_p": 3.8729142754999884e-19,
+            "significant_after_correction": true
+        },
+        {
+            "group_1": "Extinction",
+            "group_2": "Completion",
+            "n_1": 186,
+            "n_2": 27,
+            "median_1": 0.18,
+            "median_2": 0.21,
+            "median_difference": 0.03,
+            "U_statistic": 1609.5,
+            "raw_p_value": 0.002413600166549828,
+            "holm_adjusted_p": 0.002413600166549828,
+            "significant_after_correction": true
+        },
+        {
+            "group_1": "Disruption",
+            "group_2": "Completion",
+            "n_1": 61,
+            "n_2": 27,
+            "median_1": 0.24,
+            "median_2": 0.21,
+            "median_difference": -0.03,
+            "U_statistic": 1198.0,
+            "raw_p_value": 0.0006293438518570238,
+            "holm_adjusted_p": 0.0012586877037140476,
+            "significant_after_correction": true
+        }
+    ]
+}

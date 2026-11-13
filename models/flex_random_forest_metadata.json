@@ -1,0 +1,44 @@
+{
+    "project": "NASA PSI-69 FLEX",
+    "model": "Random Forest",
+    "purpose": "Exploratory research demonstration",
+    "training_records": 273,
+    "unique_test_dates": 80,
+    "excluded_nonpositive_pressure_records": 1,
+    "features": [
+        "Ambient pressure; mmHg",
+        "O initial ambient composition; mole fraction",
+        "CO initial ambient composition; mole fraction",
+        "He initial ambient composition; mole fraction",
+        "Droplet initial diameter; mm",
+        "Fuel"
+    ],
+    "class_order_for_display": [
+        "Extinction",
+        "Disruption",
+        "Completion"
+    ],
+    "model_classes": [
+        "Completion",
+        "Disruption",
+        "Extinction"
+    ],
+    "random_state": 42,
+    "n_estimators": 500,
+    "min_samples_leaf": 2,
+    "class_weight": "balanced_subsample",
+    "validation_reference": {
+        "method": "StratifiedGroupKFold",
+        "groups": "Test Date",
+        "folds": 5,
+        "out_of_fold_macro_f1": 0.5841,
+        "out_of_fold_balanced_accuracy": 0.5776,
+        "out_of_fold_accuracy": 0.7692
+    },
+    "limitations": [
+        "This deployment model was fitted on the full eligible dataset.",
+        "Its interactive predictions are not independent validation results.",
+        "The dataset contains only 27 Completion records before pressure filtering.",
+        "This is a research prototype, not a certified fire-safety prediction system."
+    ]
+}

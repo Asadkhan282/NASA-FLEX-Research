@@ -1,0 +1,96 @@
+{
+    "project": "Flame in Freefall",
+    "dataset": "NASA PSI-69 FLEX",
+    "source_file": "PSI-69_Experimental table_FLEX.csv",
+    "rows": 274,
+    "columns": 15,
+    "duplicate_rows": 0,
+    "duplicate_test_numbers": 0,
+    "missing_values": {
+        "FLEX Test #": 0,
+        "FLEX Identifier": 0,
+        "Test Date": 0,
+        "Test GMT": 0,
+        "Fuel": 0,
+        "Ambient pressure; mmHg": 0,
+        "O initial ambient composition; mole fraction": 0,
+        "N initial ambient composition; mole fraction": 0,
+        "CO initial ambient composition; mole fraction": 0,
+        "He initial ambient composition; mole fraction": 0,
+        "Droplet initial diameter; mm": 12,
+        "Visible flame extinction diameter; mm": 77,
+        "Burning rate; mm": 16,
+        "Burn time; s": 6,
+        "Test end": 0
+    },
+    "approximate_measurements": {
+        "Droplet initial diameter; mm": {
+            "count": 0,
+            "records": []
+        },
+        "Visible flame extinction diameter; mm": {
+            "count": 0,
+            "records": []
+        },
+        "Burning rate; mm": {
+            "count": 0,
+            "records": []
+        },
+        "Burn time; s": {
+            "count": 2,
+            "records": [
+                {
+                    "test_number": 223,
+                    "flex_identifier": "H01M104",
+                    "estimated_numeric_value": 6.0
+                },
+                {
+                    "test_number": 224,
+                    "flex_identifier": "H01H102",
+                    "estimated_numeric_value": 9.0
+                }
+            ]
+        }
+    },
+    "fuel_distribution": {
+        "Methanol": 157,
+        "Heptane": 117
+    },
+    "outcome_distribution": {
+        "Extinction": 186,
+        "Disruption": 61,
+        "Completion": 27
+    },
+    "unexpected_outcomes": [],
+    "test_number_range": {
+        "minimum": 1,
+        "maximum": 274
+    },
+    "missing_test_numbers": [],
+    "zero_pressure_records": [
+        {
+            "FLEX Test #": "114.0",
+            "FLEX Identifier": "C11M201"
+        }
+    ],
+    "gas_composition_totals": {
+        "valid_records": 274,
+        "mean": 0.998795620437956,
+        "minimum": 0.98,
+        "maximum": 1.01,
+        "below_1": 35,
+        "above_1": 1,
+        "outside_0.99_to_1.01": 6
+    },
+    "notes": [
+        "Original NASA dataset was not modified.",
+        "Unicode dash entries are treated as unavailable measurements.",
+        "Approximate numeric measurements are retained as numeric estimates.",
+        "Approximation flags and original test identifiers are recorded separately.",
+        "Missing measurements are not replaced with zero.",
+        "Approximate values should be interpreted as estimates, not exact measurements.",
+        "Zero pressure measurements require scientific verification.",
+        "The local CSV contains 274 rows; the NASA portal displays 275 records.",
+        "No missing 275th experiment has been fabricated."
+    ]
+}

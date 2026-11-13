@@ -1,0 +1,7 @@
+Fuel,Predicted outcome,Outcome,Model score
+Heptane,Disruption,Completion,0.14373327525585086
+Heptane,Disruption,Disruption,0.4316651052798319
+Heptane,Disruption,Extinction,0.4246016194643172
+Methanol,Extinction,Completion,0.003909999312140465
+Methanol,Extinction,Disruption,0.11993508474877192
+Methanol,Extinction,Extinction,0.8761549159390877

@@ -1,0 +1,37 @@
+{
+    "experiment": "Controlled fuel-input comparison",
+    "model": "Saved NASA FLEX Random Forest pipeline",
+    "conditions": {
+        "Ambient pressure; mmHg": 759.6,
+        "O initial ambient composition; mole fraction": 0.2,
+        "CO initial ambient composition; mole fraction": 0.0,
+        "He initial ambient composition; mole fraction": 0.0,
+        "Droplet initial diameter; mm": 3.01
+    },
+    "predictions": {
+        "Heptane": {
+            "predicted_outcome": "Disruption",
+            "scores": {
+                "Completion": 0.14373327525585086,
+                "Disruption": 0.4316651052798319,
+                "Extinction": 0.4246016194643172
+            }
+        },
+        "Methanol": {
+            "predicted_outcome": "Extinction",
+            "scores": {
+                "Completion": 0.003909999312140465,
+                "Disruption": 0.11993508474877192,
+                "Extinction": 0.8761549159390877
+            }
+        }
+    },
+    "interpretation": "At the selected input conditions, the model produces different outcome scores for Heptane and Methanol. This is a model-behavior comparison, not causal evidence or an independently validated physical prediction.",
+    "limitations": [
+        "The model was fitted on all 273 eligible records.",
+        "Model scores are not calibrated physical probabilities.",
+        "This comparison uses one selected set of input conditions.",
+        "The result does not establish a general causal fuel effect.",
+        "The model is not suitable for operational fire-safety decisions."
+    ]
+}

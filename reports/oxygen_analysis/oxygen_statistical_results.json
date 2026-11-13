@@ -1,0 +1,28 @@
+{
+    "sample_size": 274,
+    "group_statistics": {
+        "Extinction": {
+            "n": 186,
+            "mean": 0.18274193548387097,
+            "median": 0.18,
+            "std": 0.03369991682588387
+        },
+        "Disruption": {
+            "n": 61,
+            "mean": 0.2498360655737705,
+            "median": 0.24,
+            "std": 0.04893845806311871
+        },
+        "Completion": {
+            "n": 27,
+            "mean": 0.21296296296296297,
+            "median": 0.21,
+            "std": 0.04959953588607418
+        }
+    },
+    "kruskal_wallis_H": 84.99556111506573,
+    "p_value": 3.4950099036844957e-19,
+    "epsilon_squared": 0.30625668308142334,
+    "interpretation": "Oxygen distributions differ significantly across at least one outcome group.",
+    "limitation": "This is an unadjusted observational comparison. It does not establish causation or isolate the independent effect of oxygen."
+}

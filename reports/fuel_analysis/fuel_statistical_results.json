@@ -1,0 +1,65 @@
+{
+    "sample_size": 274,
+    "observed_counts": {
+        "Extinction": {
+            "Heptane": 60,
+            "Methanol": 126
+        },
+        "Disruption": {
+            "Heptane": 38,
+            "Methanol": 23
+        },
+        "Completion": {
+            "Heptane": 19,
+            "Methanol": 8
+        }
+    },
+    "within_fuel_percentages": {
+        "Extinction": {
+            "Heptane": 51.282,
+            "Methanol": 80.255
+        },
+        "Disruption": {
+            "Heptane": 32.479,
+            "Methanol": 14.65
+        },
+        "Completion": {
+            "Heptane": 16.239,
+            "Methanol": 5.096
+        }
+    },
+    "chi_square": 26.310670963386947,
+    "degrees_of_freedom": 2,
+    "p_value": 1.9351311002827816e-06,
+    "cramers_v": 0.3098779543331603,
+    "expected_counts": {
+        "Extinction": {
+            "Heptane": 79.423,
+            "Methanol": 106.577
+        },
+        "Disruption": {
+            "Heptane": 26.047,
+            "Methanol": 34.953
+        },
+        "Completion": {
+            "Heptane": 11.529,
+            "Methanol": 15.471
+        }
+    },
+    "standardized_residuals": {
+        "Extinction": {
+            "Heptane": -2.179,
+            "Methanol": 1.881
+        },
+        "Disruption": {
+            "Heptane": 2.342,
+            "Methanol": -2.022
+        },
+        "Completion": {
+            "Heptane": 2.2,
+            "Methanol": -1.899
+        }
+    },
+    "interpretation": "Statistically significant association at 0.05 level",
+    "limitation": "Observational association does not establish causation. Experimental conditions may differ between fuel groups."
+}

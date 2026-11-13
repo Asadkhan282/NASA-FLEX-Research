@@ -1,0 +1,52 @@
+NASA PSI-69 FLEX DATA QUALITY REPORT
+=======================================================
+Dataset rows: 274
+Dataset columns: 15
+Duplicate rows: 0
+Duplicate test numbers: 0
+
+FUEL DISTRIBUTION
+{'Methanol': 157, 'Heptane': 117}
+
+EXPERIMENT OUTCOMES
+{'Extinction': 186, 'Disruption': 61, 'Completion': 27}
+
+MISSING VALUES
+FLEX Test #: 0
+FLEX Identifier: 0
+Test Date: 0
+Test GMT: 0
+Fuel: 0
+Ambient pressure; mmHg: 0
+O initial ambient composition; mole fraction: 0
+N initial ambient composition; mole fraction: 0
+CO initial ambient composition; mole fraction: 0
+He initial ambient composition; mole fraction: 0
+Droplet initial diameter; mm: 12
+Visible flame extinction diameter; mm: 77
+Burning rate; mm: 16
+Burn time; s: 6
+Test end: 0
+
+APPROXIMATE MEASUREMENTS
+Droplet initial diameter; mm: 0 approximate entries
+Visible flame extinction diameter; mm: 0 approximate entries
+Burning rate; mm: 0 approximate entries
+Burn time; s: 2 approximate entries
+  Test 223 (H01M104): approximately 6.0
+  Test 224 (H01H102): approximately 9.0
+
+GAS COMPOSITION TOTALS
+{'valid_records': 274, 'mean': 0.998795620437956, 'minimum': 0.98, 'maximum': 1.01, 'below_1': 35, 'above_1': 1, 'outside_0.99_to_1.01': 6}
+
+ZERO PRESSURE RECORDS
+[{'FLEX Test #': '114.0', 'FLEX Identifier': 'C11M201'}]
+
+MISSING TEST NUMBERS
+[]
+
+IMPORTANT
+The local CSV contains 274 rows.
+The NASA portal displays 275 records.
+No missing 275th experiment has been fabricated.
+Approximate measurements are estimates, not exact values.

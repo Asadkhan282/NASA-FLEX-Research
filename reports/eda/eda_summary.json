@@ -1,0 +1,35 @@
+{
+    "dataset": "NASA PSI-69 FLEX",
+    "rows": 274,
+    "columns": 17,
+    "outcomes": {
+        "Extinction": 186,
+        "Disruption": 61,
+        "Completion": 27
+    },
+    "fuels": {
+        "Methanol": 157,
+        "Heptane": 117
+    },
+    "approximate_burn_times": 2,
+    "zero_pressure_records": 1,
+    "missing_measurements": {
+        "FLEX Test #": 0,
+        "Ambient pressure; mmHg": 0,
+        "O initial ambient composition; mole fraction": 0,
+        "N initial ambient composition; mole fraction": 0,
+        "CO initial ambient composition; mole fraction": 0,
+        "He initial ambient composition; mole fraction": 0,
+        "Droplet initial diameter; mm": 12,
+        "Visible flame extinction diameter; mm": 77,
+        "Burning rate; mm": 16,
+        "Burn time; s": 6
+    },
+    "composition_totals": {
+        "mean": 0.998795620437956,
+        "minimum": 0.98,
+        "maximum": 1.01,
+        "records_below_1": 28
+    },
+    "interpretation_warning": "Exploratory associations only. These results do not establish causation."
+}

@@ -1,0 +1,1639 @@
+FLEX Test #,FLEX Identifier,Test Date,Actual outcome,Predicted outcome,Validation,Model
+1,20CAL08,3/5/2009,Disruption,Extinction,Stratified random,Majority baseline
+2,20CAL10,3/5/2009,Extinction,Extinction,Stratified random,Majority baseline
+3,20CAL12,3/5/2009,Extinction,Extinction,Stratified random,Majority baseline
+4,30CAL02,3/31/2009,Extinction,Extinction,Stratified random,Majority baseline
+5,30CAL03,3/31/2009,Extinction,Extinction,Stratified random,Majority baseline
+6,40CAL01,3/31/2009,Extinction,Extinction,Stratified random,Majority baseline
+7,20CAL13,4/10/2009,Disruption,Extinction,Stratified random,Majority baseline
+8,30CAL06,4/10/2009,Disruption,Extinction,Stratified random,Majority baseline
+9,30CAL07,4/10/2009,Disruption,Extinction,Stratified random,Majority baseline
+10,256F002,5/22/2009,Extinction,Extinction,Stratified random,Majority baseline
+11,256R001,5/22/2009,Extinction,Extinction,Stratified random,Majority baseline
+12,264F003,5/22/2009,Disruption,Extinction,Stratified random,Majority baseline
+13,256R002,6/25/2009,Extinction,Extinction,Stratified random,Majority baseline
+14,256F007,6/29/2009,Extinction,Extinction,Stratified random,Majority baseline
+15,256F008,6/29/2009,Extinction,Extinction,Stratified random,Majority baseline
+16,256F009,6/29/2009,Extinction,Extinction,Stratified random,Majority baseline
+17,240R003,7/1/2009,Disruption,Extinction,Stratified random,Majority baseline
+18,248F001,7/1/2009,Extinction,Extinction,Stratified random,Majority baseline
+19,196F001,8/26/2009,Disruption,Extinction,Stratified random,Majority baseline
+20,192F001,10/24/09,Completion,Extinction,Stratified random,Majority baseline
+21,192F002,10/24/09,Disruption,Extinction,Stratified random,Majority baseline
+22,192F003,10/24/09,Disruption,Extinction,Stratified random,Majority baseline
+23,196F002,10/24/09,Disruption,Extinction,Stratified random,Majority baseline
+24,196F003,10/24/09,Disruption,Extinction,Stratified random,Majority baseline
+25,191R001,11/9/2009,Completion,Extinction,Stratified random,Majority baseline
+26,191F001,11/9/2009,Disruption,Extinction,Stratified random,Majority baseline
+27,195F001,11/9/2009,Disruption,Extinction,Stratified random,Majority baseline
+28,195F002,11/9/2009,Disruption,Extinction,Stratified random,Majority baseline
+29,178R001,11/13/09,Completion,Extinction,Stratified random,Majority baseline
+30,178F001,11/13/09,Extinction,Extinction,Stratified random,Majority baseline
+31,182F001,11/13/09,Disruption,Extinction,Stratified random,Majority baseline
+32,182F002,11/13/09,Completion,Extinction,Stratified random,Majority baseline
+33,177R002,11/27/09,Extinction,Extinction,Stratified random,Majority baseline
+34,177F001,11/27/09,Extinction,Extinction,Stratified random,Majority baseline
+35,181F001,11/27/09,Extinction,Extinction,Stratified random,Majority baseline
+36,190R002,12/15/09,Extinction,Extinction,Stratified random,Majority baseline
+37,220R001,1/7/2010,Disruption,Extinction,Stratified random,Majority baseline
+38,220R002,1/7/2010,Disruption,Extinction,Stratified random,Majority baseline
+39,224F001,1/7/2010,Disruption,Extinction,Stratified random,Majority baseline
+40,219R001,1/8/2010,Disruption,Extinction,Stratified random,Majority baseline
+41,219F001,1/8/2010,Disruption,Extinction,Stratified random,Majority baseline
+42,223F001,1/8/2010,Disruption,Extinction,Stratified random,Majority baseline
+43,223F002,1/8/2010,Disruption,Extinction,Stratified random,Majority baseline
+44,206F001,1/11/2010,Disruption,Extinction,Stratified random,Majority baseline
+45,206R001,1/11/2010,Extinction,Extinction,Stratified random,Majority baseline
+46,205R001,1/12/2010,Disruption,Extinction,Stratified random,Majority baseline
+47,209F001,1/12/2010,Completion,Extinction,Stratified random,Majority baseline
+48,205F001,1/12/2010,Disruption,Extinction,Stratified random,Majority baseline
+49,209F003,1/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+50,209F004,1/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+51,209F005,1/19/2010,Completion,Extinction,Stratified random,Majority baseline
+52,210F002,1/11/2010,Disruption,Extinction,Stratified random,Majority baseline
+53,209F002,1/12/2010,Disruption,Extinction,Stratified random,Majority baseline
+54,190F003,1/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+55,218F001,1/29/2010,Disruption,Extinction,Stratified random,Majority baseline
+56,194F001,1/29/2010,Completion,Extinction,Stratified random,Majority baseline
+57,303F001,1/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+58,176F001,2/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+59,176R001,2/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+60,204F001,2/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+61,204R001,2/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+62,301F001,3/11/2010,Extinction,Extinction,Stratified random,Majority baseline
+63,301F002,3/11/2010,Completion,Extinction,Stratified random,Majority baseline
+64,302F001,3/11/2010,Extinction,Extinction,Stratified random,Majority baseline
+65,189R001,3/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+66,189F001,3/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+67,189F002,3/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+68,189R003,3/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+69,193R002,3/23/2010,Completion,Extinction,Stratified random,Majority baseline
+70,193F001,3/23/2010,Extinction,Extinction,Stratified random,Majority baseline
+71,189R002,3/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+72,193R001,3/23/2010,Completion,Extinction,Stratified random,Majority baseline
+73,193F001,3/23/2010,Extinction,Extinction,Stratified random,Majority baseline
+74,221F001,3/23/2010,Completion,Extinction,Stratified random,Majority baseline
+75,203R002,3/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+76,203F001,3/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+77,175R001,3/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+78,175F001,3/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+79,179F001,3/30/2010,Extinction,Extinction,Stratified random,Majority baseline
+80,207F001,3/30/2010,Extinction,Extinction,Stratified random,Majority baseline
+81,207F002,3/30/2010,Extinction,Extinction,Stratified random,Majority baseline
+82,304F001,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+83,304F002,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+84,304R001,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+85,304R002,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+86,305F002,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+87,305F003,4/19/2010,Extinction,Extinction,Stratified random,Majority baseline
+88,053R001,5/5/2010,Disruption,Extinction,Stratified random,Majority baseline
+89,053F001,5/5/2010,Disruption,Extinction,Stratified random,Majority baseline
+90,141R001,5/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+91,141F001,5/5/2010,Disruption,Extinction,Stratified random,Majority baseline
+92,061F002,6/14/2010,Disruption,Extinction,Stratified random,Majority baseline
+93,149F001,6/15/2010,Disruption,Extinction,Stratified random,Majority baseline
+94,C08H101,6/15/2010,Extinction,Extinction,Stratified random,Majority baseline
+95,C08H201,6/15/2010,Extinction,Extinction,Stratified random,Majority baseline
+96,C08H301,6/15/2010,Disruption,Extinction,Stratified random,Majority baseline
+97,C08M101,6/16/2010,Completion,Extinction,Stratified random,Majority baseline
+98,C09M201,6/21/2010,Extinction,Extinction,Stratified random,Majority baseline
+99,C09M101,6/21/2010,Extinction,Extinction,Stratified random,Majority baseline
+100,C09H101,6/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+101,C09H201,6/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+102,C10H101,6/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+103,C10H201,6/29/2010,Extinction,Extinction,Stratified random,Majority baseline
+104,C08M201,6/16/2010,Extinction,Extinction,Stratified random,Majority baseline
+105,C08M301,6/16/2010,Disruption,Extinction,Stratified random,Majority baseline
+106,C09M401,6/21/2010,Disruption,Extinction,Stratified random,Majority baseline
+107,C08M401,6/16/2010,Disruption,Extinction,Stratified random,Majority baseline
+108,C09M301,6/21/2010,Completion,Extinction,Stratified random,Majority baseline
+109,C10M102,8/31/2010,Extinction,Extinction,Stratified random,Majority baseline
+110,C10M201,8/31/2010,Extinction,Extinction,Stratified random,Majority baseline
+111,C10M303,8/31/2010,Completion,Extinction,Stratified random,Majority baseline
+112,C10M401,9/1/2010,Completion,Extinction,Stratified random,Majority baseline
+113,C11M101,9/1/2010,Extinction,Extinction,Stratified random,Majority baseline
+115,C11M301,9/1/2010,Extinction,Extinction,Stratified random,Majority baseline
+116,C11M401,9/1/2010,Extinction,Extinction,Stratified random,Majority baseline
+117,C11H101,9/6/2010,Extinction,Extinction,Stratified random,Majority baseline
+118,C11H201,9/6/2010,Extinction,Extinction,Stratified random,Majority baseline
+119,C12H103,9/7/2010,Extinction,Extinction,Stratified random,Majority baseline
+120,C12H201,9/7/2010,Extinction,Extinction,Stratified random,Majority baseline
+121,C12M101,9/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+122,C12M201,9/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+123,C12M301,9/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+124,C12M401,9/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+125,C13M103,9/13/2010,Extinction,Extinction,Stratified random,Majority baseline
+126,C13M201,9/13/2010,Extinction,Extinction,Stratified random,Majority baseline
+127,C13M301,9/13/2010,Extinction,Extinction,Stratified random,Majority baseline
+128,C13M401,9/13/2010,Extinction,Extinction,Stratified random,Majority baseline
+129,C13H102,9/17/2010,Extinction,Extinction,Stratified random,Majority baseline
+130,C13H201,9/17/2010,Extinction,Extinction,Stratified random,Majority baseline
+131,C21H101,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+132,C21H201,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+133,C21H301,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+134,C21H401,10/6/2010,Extinction,Extinction,Stratified random,Majority baseline
+135,C21H501,10/6/2010,Completion,Extinction,Stratified random,Majority baseline
+136,C21H302,10/6/2010,Completion,Extinction,Stratified random,Majority baseline
+137,C21H303,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+138,C21H304,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+139,C21H305,10/6/2010,Disruption,Extinction,Stratified random,Majority baseline
+140,C14M101,11/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+141,C14M201,11/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+142,C14M301,11/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+143,C14M302,11/4/2010,Extinction,Extinction,Stratified random,Majority baseline
+144,C01M101,11/16/10,Extinction,Extinction,Stratified random,Majority baseline
+145,C01M201,11/16/10,Extinction,Extinction,Stratified random,Majority baseline
+146,C01M301,11/16/10,Extinction,Extinction,Stratified random,Majority baseline
+147,C13M102,9/13/2010,Extinction,Extinction,Stratified random,Majority baseline
+148,C01H101,11/18/10,Disruption,Extinction,Stratified random,Majority baseline
+149,C01H201,11/18/10,Disruption,Extinction,Stratified random,Majority baseline
+150,C01H302,11/18/10,Extinction,Extinction,Stratified random,Majority baseline
+151,C03M101,12/8/2010,Completion,Extinction,Stratified random,Majority baseline
+152,C03M201,12/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+153,C03M301,12/8/2010,Extinction,Extinction,Stratified random,Majority baseline
+154,C03H101,12/9/2010,Extinction,Extinction,Stratified random,Majority baseline
+155,C03H201,12/9/2010,Extinction,Extinction,Stratified random,Majority baseline
+156,C03H401,12/9/2010,Completion,Extinction,Stratified random,Majority baseline
+157,C05M101,12/14/10,Extinction,Extinction,Stratified random,Majority baseline
+158,C05M201,12/14/10,Extinction,Extinction,Stratified random,Majority baseline
+159,C05M301,12/14/10,Extinction,Extinction,Stratified random,Majority baseline
+160,C05M401,12/14/10,Extinction,Extinction,Stratified random,Majority baseline
+161,C06M101,12/28/10,Extinction,Extinction,Stratified random,Majority baseline
+162,C06M201,12/28/10,Extinction,Extinction,Stratified random,Majority baseline
+163,C06M301,12/28/10,Extinction,Extinction,Stratified random,Majority baseline
+164,C06M401,12/28/10,Extinction,Extinction,Stratified random,Majority baseline
+165,C03H302,12/9/2010,Extinction,Extinction,Stratified random,Majority baseline
+166,C07M101,1/12/2011,Extinction,Extinction,Stratified random,Majority baseline
+167,C07M201,1/12/2011,Extinction,Extinction,Stratified random,Majority baseline
+168,C15M101,1/18/2011,Disruption,Extinction,Stratified random,Majority baseline
+169,C15M201,1/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+170,C15M301,1/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+171,C03H501,2/21/2011,Extinction,Extinction,Stratified random,Majority baseline
+172,C03H601,2/21/2011,Extinction,Extinction,Stratified random,Majority baseline
+173,C03H701,2/21/2011,Disruption,Extinction,Stratified random,Majority baseline
+174,C08H502,2/21/2011,Disruption,Extinction,Stratified random,Majority baseline
+175,C08H601,2/21/2011,Disruption,Extinction,Stratified random,Majority baseline
+176,C08M501,4/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+177,C08M601,4/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+178,C09H501,4/20/2011,Extinction,Extinction,Stratified random,Majority baseline
+179,C09H601,4/20/2011,Disruption,Extinction,Stratified random,Majority baseline
+180,C02H101,4/20/2011,Extinction,Extinction,Stratified random,Majority baseline
+181,C02H201,4/20/2011,Extinction,Extinction,Stratified random,Majority baseline
+182,C02H202,4/20/2011,Disruption,Extinction,Stratified random,Majority baseline
+183,C09M501,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+184,C09M502,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+185,C09M601,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+186,C09M701,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+187,C02M101,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+188,C02M201,8/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+189,C03M501,8/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+190,C03M601,8/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+191,C03M701,8/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+192,C04M101,8/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+193,C04M201,8/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+194,C04H101,8/17/2011,Extinction,Extinction,Stratified random,Majority baseline
+195,C04H201,8/17/2011,Extinction,Extinction,Stratified random,Majority baseline
+196,C01H501,8/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+197,C01H601,8/18/2011,Extinction,Extinction,Stratified random,Majority baseline
+198,C01H701,8/18/2011,Disruption,Extinction,Stratified random,Majority baseline
+199,C01M501,8/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+200,C01M602,8/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+201,C01M603,8/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+202,N01M101,8/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+203,N01M201,8/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+204,N01H101,8/29/2011,Disruption,Extinction,Stratified random,Majority baseline
+205,N01H102,8/29/2011,Disruption,Extinction,Stratified random,Majority baseline
+206,N01H201,8/29/2011,Disruption,Extinction,Stratified random,Majority baseline
+207,N01H202,8/29/2011,Completion,Extinction,Stratified random,Majority baseline
+208,N01H301,8/29/2011,Completion,Extinction,Stratified random,Majority baseline
+209,N02H101,8/29/2011,Extinction,Extinction,Stratified random,Majority baseline
+210,N02H201,8/29/2011,Extinction,Extinction,Stratified random,Majority baseline
+211,N02H203,8/30/2011,Extinction,Extinction,Stratified random,Majority baseline
+212,N03H101,9/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+213,N04H101,9/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+214,N04H201,9/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+215,N04M101,9/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+216,N04M201,9/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+217,N05M101,9/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+218,N05M201,9/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+219,N06M101,9/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+220,N06M201,9/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+221,N06M202,9/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+222,H01M102,9/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+223,H01M104,9/9/2011,Extinction,Extinction,Stratified random,Majority baseline
+224,H01H102,9/13/2011,Completion,Extinction,Stratified random,Majority baseline
+225,H02M101,9/21/2011,Extinction,Extinction,Stratified random,Majority baseline
+226,H03M101,9/22/2011,Extinction,Extinction,Stratified random,Majority baseline
+227,H03M201,9/22/2011,Extinction,Extinction,Stratified random,Majority baseline
+228,N01H401,9/23/2011,Extinction,Extinction,Stratified random,Majority baseline
+229,N01H502,9/24/2011,Disruption,Extinction,Stratified random,Majority baseline
+230,N01H601,9/24/2011,Extinction,Extinction,Stratified random,Majority baseline
+231,H02H101,9/24/2011,Disruption,Extinction,Stratified random,Majority baseline
+232,H03H101,9/27/2011,Extinction,Extinction,Stratified random,Majority baseline
+233,H03H201,9/27/2011,Completion,Extinction,Stratified random,Majority baseline
+234,H03H202,9/27/2011,Completion,Extinction,Stratified random,Majority baseline
+235,H04H101,9/27/2011,Extinction,Extinction,Stratified random,Majority baseline
+236,H04H201,9/27/2011,Extinction,Extinction,Stratified random,Majority baseline
+237,H04H302,9/27/2011,Disruption,Extinction,Stratified random,Majority baseline
+238,H04H303,9/27/2011,Completion,Extinction,Stratified random,Majority baseline
+239,H04M101,10/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+240,H04M202,10/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+241,H05M102,10/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+242,H05M202,10/1/2011,Extinction,Extinction,Stratified random,Majority baseline
+243,H05H103,10/5/2011,Extinction,Extinction,Stratified random,Majority baseline
+244,H06M102,10/7/2011,Extinction,Extinction,Stratified random,Majority baseline
+245,H06M201,10/7/2011,Extinction,Extinction,Stratified random,Majority baseline
+246,H07M101,10/7/2011,Extinction,Extinction,Stratified random,Majority baseline
+247,H07M202,10/7/2011,Extinction,Extinction,Stratified random,Majority baseline
+248,H08M101,10/11/11,Extinction,Extinction,Stratified random,Majority baseline
+249,H10H101,10/12/11,Extinction,Extinction,Stratified random,Majority baseline
+250,H11H101,10/12/11,Completion,Extinction,Stratified random,Majority baseline
+251,H10M101,11/18/11,Extinction,Extinction,Stratified random,Majority baseline
+252,H10M102,11/18/11,Disruption,Extinction,Stratified random,Majority baseline
+253,H11M101,11/18/11,Extinction,Extinction,Stratified random,Majority baseline
+254,H11M102,11/18/11,Disruption,Extinction,Stratified random,Majority baseline
+255,H12M101,11/18/11,Extinction,Extinction,Stratified random,Majority baseline
+256,H12M102,11/18/11,Extinction,Extinction,Stratified random,Majority baseline
+257,H12M201,11/18/11,Extinction,Extinction,Stratified random,Majority baseline
+258,H12H101,11/22/11,Extinction,Extinction,Stratified random,Majority baseline
+259,H12H201,11/22/11,Extinction,Extinction,Stratified random,Majority baseline
+260,H13H101,11/22/11,Extinction,Extinction,Stratified random,Majority baseline
+261,H13H201,11/22/11,Extinction,Extinction,Stratified random,Majority baseline
+262,H13M102,11/28/11,Extinction,Extinction,Stratified random,Majority baseline
+263,H13M201,11/28/11,Extinction,Extinction,Stratified random,Majority baseline
+264,H14M101,11/28/11,Extinction,Extinction,Stratified random,Majority baseline
+265,H14M201,11/28/11,Extinction,Extinction,Stratified random,Majority baseline
+266,H14M202,11/28/11,Extinction,Extinction,Stratified random,Majority baseline
+267,H14H101,11/30/11,Extinction,Extinction,Stratified random,Majority baseline
+268,H14H201,11/30/11,Extinction,Extinction,Stratified random,Majority baseline
+269,H15H101,11/30/11,Extinction,Extinction,Stratified random,Majority baseline
+270,H15H201,11/30/11,Completion,Extinction,Stratified random,Majority baseline
+271,H15M102,12/5/2011,Extinction,Extinction,Stratified random,Majority baseline
+272,H15M201,12/5/2011,Extinction,Extinction,Stratified random,Majority baseline
+273,H19H101,12/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+274,H19H201,12/8/2011,Extinction,Extinction,Stratified random,Majority baseline
+1,20CAL08,3/5/2009,Disruption,Completion,Stratified random,Multinomial logistic regression
+2,20CAL10,3/5/2009,Extinction,Completion,Stratified random,Multinomial logistic regression
+3,20CAL12,3/5/2009,Extinction,Completion,Stratified random,Multinomial logistic regression
+4,30CAL02,3/31/2009,Extinction,Completion,Stratified random,Multinomial logistic regression
+5,30CAL03,3/31/2009,Extinction,Completion,Stratified random,Multinomial logistic regression
+6,40CAL01,3/31/2009,Extinction,Completion,Stratified random,Multinomial logistic regression
+7,20CAL13,4/10/2009,Disruption,Completion,Stratified random,Multinomial logistic regression
+8,30CAL06,4/10/2009,Disruption,Completion,Stratified random,Multinomial logistic regression
+9,30CAL07,4/10/2009,Disruption,Completion,Stratified random,Multinomial logistic regression
+10,256F002,5/22/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+11,256R001,5/22/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+12,264F003,5/22/2009,Disruption,Extinction,Stratified random,Multinomial logistic regression
+13,256R002,6/25/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+14,256F007,6/29/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+15,256F008,6/29/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+16,256F009,6/29/2009,Extinction,Extinction,Stratified random,Multinomial logistic regression
+17,240R003,7/1/2009,Disruption,Extinction,Stratified random,Multinomial logistic regression
+18,248F001,7/1/2009,Extinction,Disruption,Stratified random,Multinomial logistic regression
+19,196F001,8/26/2009,Disruption,Disruption,Stratified random,Multinomial logistic regression
+20,192F001,10/24/09,Completion,Disruption,Stratified random,Multinomial logistic regression
+21,192F002,10/24/09,Disruption,Disruption,Stratified random,Multinomial logistic regression
+22,192F003,10/24/09,Disruption,Disruption,Stratified random,Multinomial logistic regression
+23,196F002,10/24/09,Disruption,Disruption,Stratified random,Multinomial logistic regression
+24,196F003,10/24/09,Disruption,Disruption,Stratified random,Multinomial logistic regression
+25,191R001,11/9/2009,Completion,Disruption,Stratified random,Multinomial logistic regression
+26,191F001,11/9/2009,Disruption,Disruption,Stratified random,Multinomial logistic regression
+27,195F001,11/9/2009,Disruption,Disruption,Stratified random,Multinomial logistic regression
+28,195F002,11/9/2009,Disruption,Disruption,Stratified random,Multinomial logistic regression
+29,178R001,11/13/09,Completion,Disruption,Stratified random,Multinomial logistic regression
+30,178F001,11/13/09,Extinction,Disruption,Stratified random,Multinomial logistic regression
+31,182F001,11/13/09,Disruption,Disruption,Stratified random,Multinomial logistic regression
+32,182F002,11/13/09,Completion,Disruption,Stratified random,Multinomial logistic regression
+33,177R002,11/27/09,Extinction,Completion,Stratified random,Multinomial logistic regression
+34,177F001,11/27/09,Extinction,Extinction,Stratified random,Multinomial logistic regression
+35,181F001,11/27/09,Extinction,Completion,Stratified random,Multinomial logistic regression
+36,190R002,12/15/09,Extinction,Completion,Stratified random,Multinomial logistic regression
+37,220R001,1/7/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+38,220R002,1/7/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+39,224F001,1/7/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+40,219R001,1/8/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+41,219F001,1/8/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+42,223F001,1/8/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+43,223F002,1/8/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+44,206F001,1/11/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+45,206R001,1/11/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+46,205R001,1/12/2010,Disruption,Completion,Stratified random,Multinomial logistic regression
+47,209F001,1/12/2010,Completion,Disruption,Stratified random,Multinomial logistic regression
+48,205F001,1/12/2010,Disruption,Extinction,Stratified random,Multinomial logistic regression
+49,209F003,1/19/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+50,209F004,1/19/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+51,209F005,1/19/2010,Completion,Disruption,Stratified random,Multinomial logistic regression
+52,210F002,1/11/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+53,209F002,1/12/2010,Disruption,Completion,Stratified random,Multinomial logistic regression
+54,190F003,1/29/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+55,218F001,1/29/2010,Disruption,Extinction,Stratified random,Multinomial logistic regression
+56,194F001,1/29/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+57,303F001,1/29/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+58,176F001,2/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+59,176R001,2/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+60,204F001,2/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+61,204R001,2/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+62,301F001,3/11/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+63,301F002,3/11/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+64,302F001,3/11/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+65,189R001,3/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+66,189F001,3/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+67,189F002,3/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+68,189R003,3/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+69,193R002,3/23/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+70,193F001,3/23/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+71,189R002,3/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+72,193R001,3/23/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+73,193F001,3/23/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+74,221F001,3/23/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+75,203R002,3/29/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+76,203F001,3/29/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+77,175R001,3/29/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+78,175F001,3/29/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+79,179F001,3/30/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+80,207F001,3/30/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+81,207F002,3/30/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+82,304F001,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+83,304F002,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+84,304R001,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+85,304R002,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+86,305F002,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+87,305F003,4/19/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+88,053R001,5/5/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+89,053F001,5/5/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+90,141R001,5/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+91,141F001,5/5/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+92,061F002,6/14/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+93,149F001,6/15/2010,Disruption,Completion,Stratified random,Multinomial logistic regression
+94,C08H101,6/15/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+95,C08H201,6/15/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+96,C08H301,6/15/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+97,C08M101,6/16/2010,Completion,Extinction,Stratified random,Multinomial logistic regression
+98,C09M201,6/21/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+99,C09M101,6/21/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+100,C09H101,6/29/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+101,C09H201,6/29/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+102,C10H101,6/29/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+103,C10H201,6/29/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+104,C08M201,6/16/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+105,C08M301,6/16/2010,Disruption,Extinction,Stratified random,Multinomial logistic regression
+106,C09M401,6/21/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+107,C08M401,6/16/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+108,C09M301,6/21/2010,Completion,Extinction,Stratified random,Multinomial logistic regression
+109,C10M102,8/31/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+110,C10M201,8/31/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+111,C10M303,8/31/2010,Completion,Extinction,Stratified random,Multinomial logistic regression
+112,C10M401,9/1/2010,Completion,Extinction,Stratified random,Multinomial logistic regression
+113,C11M101,9/1/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+115,C11M301,9/1/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+116,C11M401,9/1/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+117,C11H101,9/6/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+118,C11H201,9/6/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+119,C12H103,9/7/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+120,C12H201,9/7/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+121,C12M101,9/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+122,C12M201,9/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+123,C12M301,9/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+124,C12M401,9/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+125,C13M103,9/13/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+126,C13M201,9/13/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+127,C13M301,9/13/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+128,C13M401,9/13/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+129,C13H102,9/17/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+130,C13H201,9/17/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+131,C21H101,10/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+132,C21H201,10/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+133,C21H301,10/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+134,C21H401,10/6/2010,Extinction,Disruption,Stratified random,Multinomial logistic regression
+135,C21H501,10/6/2010,Completion,Disruption,Stratified random,Multinomial logistic regression
+136,C21H302,10/6/2010,Completion,Disruption,Stratified random,Multinomial logistic regression
+137,C21H303,10/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+138,C21H304,10/6/2010,Disruption,Disruption,Stratified random,Multinomial logistic regression
+139,C21H305,10/6/2010,Disruption,Completion,Stratified random,Multinomial logistic regression
+140,C14M101,11/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+141,C14M201,11/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+142,C14M301,11/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+143,C14M302,11/4/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+144,C01M101,11/16/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+145,C01M201,11/16/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+146,C01M301,11/16/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+147,C13M102,9/13/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+148,C01H101,11/18/10,Disruption,Completion,Stratified random,Multinomial logistic regression
+149,C01H201,11/18/10,Disruption,Completion,Stratified random,Multinomial logistic regression
+150,C01H302,11/18/10,Extinction,Completion,Stratified random,Multinomial logistic regression
+151,C03M101,12/8/2010,Completion,Extinction,Stratified random,Multinomial logistic regression
+152,C03M201,12/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+153,C03M301,12/8/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+154,C03H101,12/9/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+155,C03H201,12/9/2010,Extinction,Extinction,Stratified random,Multinomial logistic regression
+156,C03H401,12/9/2010,Completion,Completion,Stratified random,Multinomial logistic regression
+157,C05M101,12/14/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+158,C05M201,12/14/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+159,C05M301,12/14/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+160,C05M401,12/14/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+161,C06M101,12/28/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+162,C06M201,12/28/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+163,C06M301,12/28/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+164,C06M401,12/28/10,Extinction,Extinction,Stratified random,Multinomial logistic regression
+165,C03H302,12/9/2010,Extinction,Completion,Stratified random,Multinomial logistic regression
+166,C07M101,1/12/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+167,C07M201,1/12/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+168,C15M101,1/18/2011,Disruption,Extinction,Stratified random,Multinomial logistic regression
+169,C15M201,1/18/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+170,C15M301,1/18/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+171,C03H501,2/21/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+172,C03H601,2/21/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+173,C03H701,2/21/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+174,C08H502,2/21/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+175,C08H601,2/21/2011,Disruption,Disruption,Stratified random,Multinomial logistic regression
+176,C08M501,4/18/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+177,C08M601,4/18/2011,Extinction,Disruption,Stratified random,Multinomial logistic regression
+178,C09H501,4/20/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+179,C09H601,4/20/2011,Disruption,Disruption,Stratified random,Multinomial logistic regression
+180,C02H101,4/20/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+181,C02H201,4/20/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+182,C02H202,4/20/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+183,C09M501,8/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+184,C09M502,8/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+185,C09M601,8/8/2011,Extinction,Disruption,Stratified random,Multinomial logistic regression
+186,C09M701,8/8/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+187,C02M101,8/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+188,C02M201,8/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+189,C03M501,8/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+190,C03M601,8/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+191,C03M701,8/9/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+192,C04M101,8/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+193,C04M201,8/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+194,C04H101,8/17/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+195,C04H201,8/17/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+196,C01H501,8/18/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+197,C01H601,8/18/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+198,C01H701,8/18/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+199,C01M501,8/24/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+200,C01M602,8/24/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+201,C01M603,8/24/2011,Extinction,Disruption,Stratified random,Multinomial logistic regression
+202,N01M101,8/24/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+203,N01M201,8/24/2011,Extinction,Disruption,Stratified random,Multinomial logistic regression
+204,N01H101,8/29/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+205,N01H102,8/29/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+206,N01H201,8/29/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+207,N01H202,8/29/2011,Completion,Completion,Stratified random,Multinomial logistic regression
+208,N01H301,8/29/2011,Completion,Completion,Stratified random,Multinomial logistic regression
+209,N02H101,8/29/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+210,N02H201,8/29/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+211,N02H203,8/30/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+212,N03H101,9/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+213,N04H101,9/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+214,N04H201,9/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+215,N04M101,9/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+216,N04M201,9/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+217,N05M101,9/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+218,N05M201,9/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+219,N06M101,9/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+220,N06M201,9/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+221,N06M202,9/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+222,H01M102,9/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+223,H01M104,9/9/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+224,H01H102,9/13/2011,Completion,Completion,Stratified random,Multinomial logistic regression
+225,H02M101,9/21/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+226,H03M101,9/22/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+227,H03M201,9/22/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+228,N01H401,9/23/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+229,N01H502,9/24/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+230,N01H601,9/24/2011,Extinction,Disruption,Stratified random,Multinomial logistic regression
+231,H02H101,9/24/2011,Disruption,Completion,Stratified random,Multinomial logistic regression
+232,H03H101,9/27/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+233,H03H201,9/27/2011,Completion,Completion,Stratified random,Multinomial logistic regression
+234,H03H202,9/27/2011,Completion,Extinction,Stratified random,Multinomial logistic regression
+235,H04H101,9/27/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+236,H04H201,9/27/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+237,H04H302,9/27/2011,Disruption,Extinction,Stratified random,Multinomial logistic regression
+238,H04H303,9/27/2011,Completion,Completion,Stratified random,Multinomial logistic regression
+239,H04M101,10/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+240,H04M202,10/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+241,H05M102,10/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+242,H05M202,10/1/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+243,H05H103,10/5/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+244,H06M102,10/7/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+245,H06M201,10/7/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+246,H07M101,10/7/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+247,H07M202,10/7/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+248,H08M101,10/11/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+249,H10H101,10/12/11,Extinction,Disruption,Stratified random,Multinomial logistic regression
+250,H11H101,10/12/11,Completion,Completion,Stratified random,Multinomial logistic regression
+251,H10M101,11/18/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+252,H10M102,11/18/11,Disruption,Completion,Stratified random,Multinomial logistic regression
+253,H11M101,11/18/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+254,H11M102,11/18/11,Disruption,Completion,Stratified random,Multinomial logistic regression
+255,H12M101,11/18/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+256,H12M102,11/18/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+257,H12M201,11/18/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+258,H12H101,11/22/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+259,H12H201,11/22/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+260,H13H101,11/22/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+261,H13H201,11/22/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+262,H13M102,11/28/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+263,H13M201,11/28/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+264,H14M101,11/28/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+265,H14M201,11/28/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+266,H14M202,11/28/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+267,H14H101,11/30/11,Extinction,Extinction,Stratified random,Multinomial logistic regression
+268,H14H201,11/30/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+269,H15H101,11/30/11,Extinction,Completion,Stratified random,Multinomial logistic regression
+270,H15H201,11/30/11,Completion,Extinction,Stratified random,Multinomial logistic regression
+271,H15M102,12/5/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+272,H15M201,12/5/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+273,H19H101,12/8/2011,Extinction,Extinction,Stratified random,Multinomial logistic regression
+274,H19H201,12/8/2011,Extinction,Completion,Stratified random,Multinomial logistic regression
+1,20CAL08,3/5/2009,Disruption,Extinction,Stratified random,Random forest
+2,20CAL10,3/5/2009,Extinction,Extinction,Stratified random,Random forest
+3,20CAL12,3/5/2009,Extinction,Extinction,Stratified random,Random forest
+4,30CAL02,3/31/2009,Extinction,Extinction,Stratified random,Random forest
+5,30CAL03,3/31/2009,Extinction,Extinction,Stratified random,Random forest
+6,40CAL01,3/31/2009,Extinction,Extinction,Stratified random,Random forest
+7,20CAL13,4/10/2009,Disruption,Disruption,Stratified random,Random forest
+8,30CAL06,4/10/2009,Disruption,Completion,Stratified random,Random forest
+9,30CAL07,4/10/2009,Disruption,Disruption,Stratified random,Random forest
+10,256F002,5/22/2009,Extinction,Extinction,Stratified random,Random forest
+11,256R001,5/22/2009,Extinction,Extinction,Stratified random,Random forest
+12,264F003,5/22/2009,Disruption,Extinction,Stratified random,Random forest
+13,256R002,6/25/2009,Extinction,Extinction,Stratified random,Random forest
+14,256F007,6/29/2009,Extinction,Extinction,Stratified random,Random forest
+15,256F008,6/29/2009,Extinction,Extinction,Stratified random,Random forest
+16,256F009,6/29/2009,Extinction,Extinction,Stratified random,Random forest
+17,240R003,7/1/2009,Disruption,Extinction,Stratified random,Random forest
+18,248F001,7/1/2009,Extinction,Disruption,Stratified random,Random forest
+19,196F001,8/26/2009,Disruption,Disruption,Stratified random,Random forest
+20,192F001,10/24/09,Completion,Disruption,Stratified random,Random forest
+21,192F002,10/24/09,Disruption,Disruption,Stratified random,Random forest
+22,192F003,10/24/09,Disruption,Disruption,Stratified random,Random forest
+23,196F002,10/24/09,Disruption,Disruption,Stratified random,Random forest
+24,196F003,10/24/09,Disruption,Disruption,Stratified random,Random forest
+25,191R001,11/9/2009,Completion,Disruption,Stratified random,Random forest
+26,191F001,11/9/2009,Disruption,Disruption,Stratified random,Random forest
+27,195F001,11/9/2009,Disruption,Disruption,Stratified random,Random forest
+28,195F002,11/9/2009,Disruption,Disruption,Stratified random,Random forest
+29,178R001,11/13/09,Completion,Extinction,Stratified random,Random forest
+30,178F001,11/13/09,Extinction,Disruption,Stratified random,Random forest
+31,182F001,11/13/09,Disruption,Completion,Stratified random,Random forest
+32,182F002,11/13/09,Completion,Disruption,Stratified random,Random forest
+33,177R002,11/27/09,Extinction,Extinction,Stratified random,Random forest
+34,177F001,11/27/09,Extinction,Disruption,Stratified random,Random forest
+35,181F001,11/27/09,Extinction,Extinction,Stratified random,Random forest
+36,190R002,12/15/09,Extinction,Extinction,Stratified random,Random forest
+37,220R001,1/7/2010,Disruption,Disruption,Stratified random,Random forest
+38,220R002,1/7/2010,Disruption,Disruption,Stratified random,Random forest
+39,224F001,1/7/2010,Disruption,Disruption,Stratified random,Random forest
+40,219R001,1/8/2010,Disruption,Disruption,Stratified random,Random forest
+41,219F001,1/8/2010,Disruption,Disruption,Stratified random,Random forest
+42,223F001,1/8/2010,Disruption,Disruption,Stratified random,Random forest
+43,223F002,1/8/2010,Disruption,Disruption,Stratified random,Random forest
+44,206F001,1/11/2010,Disruption,Disruption,Stratified random,Random forest
+45,206R001,1/11/2010,Extinction,Completion,Stratified random,Random forest
+46,205R001,1/12/2010,Disruption,Extinction,Stratified random,Random forest
+47,209F001,1/12/2010,Completion,Disruption,Stratified random,Random forest
+48,205F001,1/12/2010,Disruption,Extinction,Stratified random,Random forest
+49,209F003,1/19/2010,Extinction,Completion,Stratified random,Random forest
+50,209F004,1/19/2010,Extinction,Disruption,Stratified random,Random forest
+51,209F005,1/19/2010,Completion,Disruption,Stratified random,Random forest
+52,210F002,1/11/2010,Disruption,Completion,Stratified random,Random forest
+53,209F002,1/12/2010,Disruption,Completion,Stratified random,Random forest
+54,190F003,1/29/2010,Extinction,Extinction,Stratified random,Random forest
+55,218F001,1/29/2010,Disruption,Extinction,Stratified random,Random forest
+56,194F001,1/29/2010,Completion,Extinction,Stratified random,Random forest
+57,303F001,1/29/2010,Extinction,Extinction,Stratified random,Random forest
+58,176F001,2/4/2010,Extinction,Extinction,Stratified random,Random forest
+59,176R001,2/4/2010,Extinction,Extinction,Stratified random,Random forest
+60,204F001,2/4/2010,Extinction,Extinction,Stratified random,Random forest
+61,204R001,2/4/2010,Extinction,Extinction,Stratified random,Random forest
+62,301F001,3/11/2010,Extinction,Extinction,Stratified random,Random forest
+63,301F002,3/11/2010,Completion,Completion,Stratified random,Random forest
+64,302F001,3/11/2010,Extinction,Extinction,Stratified random,Random forest
+65,189R001,3/19/2010,Extinction,Extinction,Stratified random,Random forest
+66,189F001,3/19/2010,Extinction,Extinction,Stratified random,Random forest
+67,189F002,3/19/2010,Extinction,Extinction,Stratified random,Random forest
+68,189R003,3/19/2010,Extinction,Extinction,Stratified random,Random forest
+69,193R002,3/23/2010,Completion,Completion,Stratified random,Random forest
+70,193F001,3/23/2010,Extinction,Extinction,Stratified random,Random forest
+71,189R002,3/19/2010,Extinction,Extinction,Stratified random,Random forest
+72,193R001,3/23/2010,Completion,Completion,Stratified random,Random forest
+73,193F001,3/23/2010,Extinction,Extinction,Stratified random,Random forest
+74,221F001,3/23/2010,Completion,Completion,Stratified random,Random forest
+75,203R002,3/29/2010,Extinction,Extinction,Stratified random,Random forest
+76,203F001,3/29/2010,Extinction,Extinction,Stratified random,Random forest
+77,175R001,3/29/2010,Extinction,Extinction,Stratified random,Random forest
+78,175F001,3/29/2010,Extinction,Extinction,Stratified random,Random forest
+79,179F001,3/30/2010,Extinction,Extinction,Stratified random,Random forest
+80,207F001,3/30/2010,Extinction,Extinction,Stratified random,Random forest
+81,207F002,3/30/2010,Extinction,Extinction,Stratified random,Random forest
+82,304F001,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+83,304F002,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+84,304R001,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+85,304R002,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+86,305F002,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+87,305F003,4/19/2010,Extinction,Extinction,Stratified random,Random forest
+88,053R001,5/5/2010,Disruption,Disruption,Stratified random,Random forest
+89,053F001,5/5/2010,Disruption,Disruption,Stratified random,Random forest
+90,141R001,5/6/2010,Disruption,Disruption,Stratified random,Random forest
+91,141F001,5/5/2010,Disruption,Disruption,Stratified random,Random forest
+92,061F002,6/14/2010,Disruption,Disruption,Stratified random,Random forest
+93,149F001,6/15/2010,Disruption,Disruption,Stratified random,Random forest
+94,C08H101,6/15/2010,Extinction,Disruption,Stratified random,Random forest
+95,C08H201,6/15/2010,Extinction,Disruption,Stratified random,Random forest
+96,C08H301,6/15/2010,Disruption,Disruption,Stratified random,Random forest
+97,C08M101,6/16/2010,Completion,Extinction,Stratified random,Random forest
+98,C09M201,6/21/2010,Extinction,Extinction,Stratified random,Random forest
+99,C09M101,6/21/2010,Extinction,Completion,Stratified random,Random forest
+100,C09H101,6/29/2010,Extinction,Extinction,Stratified random,Random forest
+101,C09H201,6/29/2010,Extinction,Extinction,Stratified random,Random forest
+102,C10H101,6/29/2010,Extinction,Extinction,Stratified random,Random forest
+103,C10H201,6/29/2010,Extinction,Extinction,Stratified random,Random forest
+104,C08M201,6/16/2010,Extinction,Disruption,Stratified random,Random forest
+105,C08M301,6/16/2010,Disruption,Extinction,Stratified random,Random forest
+106,C09M401,6/21/2010,Disruption,Extinction,Stratified random,Random forest
+107,C08M401,6/16/2010,Disruption,Extinction,Stratified random,Random forest
+108,C09M301,6/21/2010,Completion,Extinction,Stratified random,Random forest
+109,C10M102,8/31/2010,Extinction,Completion,Stratified random,Random forest
+110,C10M201,8/31/2010,Extinction,Extinction,Stratified random,Random forest
+111,C10M303,8/31/2010,Completion,Extinction,Stratified random,Random forest
+112,C10M401,9/1/2010,Completion,Extinction,Stratified random,Random forest
+113,C11M101,9/1/2010,Extinction,Extinction,Stratified random,Random forest
+115,C11M301,9/1/2010,Extinction,Extinction,Stratified random,Random forest
+116,C11M401,9/1/2010,Extinction,Extinction,Stratified random,Random forest
+117,C11H101,9/6/2010,Extinction,Extinction,Stratified random,Random forest
+118,C11H201,9/6/2010,Extinction,Extinction,Stratified random,Random forest
+119,C12H103,9/7/2010,Extinction,Extinction,Stratified random,Random forest
+120,C12H201,9/7/2010,Extinction,Extinction,Stratified random,Random forest
+121,C12M101,9/8/2010,Extinction,Extinction,Stratified random,Random forest
+122,C12M201,9/8/2010,Extinction,Extinction,Stratified random,Random forest
+123,C12M301,9/8/2010,Extinction,Extinction,Stratified random,Random forest
+124,C12M401,9/8/2010,Extinction,Extinction,Stratified random,Random forest
+125,C13M103,9/13/2010,Extinction,Extinction,Stratified random,Random forest
+126,C13M201,9/13/2010,Extinction,Extinction,Stratified random,Random forest
+127,C13M301,9/13/2010,Extinction,Extinction,Stratified random,Random forest
+128,C13M401,9/13/2010,Extinction,Extinction,Stratified random,Random forest
+129,C13H102,9/17/2010,Extinction,Extinction,Stratified random,Random forest
+130,C13H201,9/17/2010,Extinction,Extinction,Stratified random,Random forest
+131,C21H101,10/6/2010,Disruption,Disruption,Stratified random,Random forest
+132,C21H201,10/6/2010,Disruption,Disruption,Stratified random,Random forest
+133,C21H301,10/6/2010,Disruption,Disruption,Stratified random,Random forest
+134,C21H401,10/6/2010,Extinction,Disruption,Stratified random,Random forest
+135,C21H501,10/6/2010,Completion,Disruption,Stratified random,Random forest
+136,C21H302,10/6/2010,Completion,Disruption,Stratified random,Random forest
+137,C21H303,10/6/2010,Disruption,Completion,Stratified random,Random forest
+138,C21H304,10/6/2010,Disruption,Disruption,Stratified random,Random forest
+139,C21H305,10/6/2010,Disruption,Disruption,Stratified random,Random forest
+140,C14M101,11/4/2010,Extinction,Extinction,Stratified random,Random forest
+141,C14M201,11/4/2010,Extinction,Extinction,Stratified random,Random forest
+142,C14M301,11/4/2010,Extinction,Extinction,Stratified random,Random forest
+143,C14M302,11/4/2010,Extinction,Extinction,Stratified random,Random forest
+144,C01M101,11/16/10,Extinction,Extinction,Stratified random,Random forest
+145,C01M201,11/16/10,Extinction,Extinction,Stratified random,Random forest
+146,C01M301,11/16/10,Extinction,Extinction,Stratified random,Random forest
+147,C13M102,9/13/2010,Extinction,Extinction,Stratified random,Random forest
+148,C01H101,11/18/10,Disruption,Extinction,Stratified random,Random forest
+149,C01H201,11/18/10,Disruption,Disruption,Stratified random,Random forest
+150,C01H302,11/18/10,Extinction,Extinction,Stratified random,Random forest
+151,C03M101,12/8/2010,Completion,Extinction,Stratified random,Random forest
+152,C03M201,12/8/2010,Extinction,Extinction,Stratified random,Random forest
+153,C03M301,12/8/2010,Extinction,Extinction,Stratified random,Random forest
+154,C03H101,12/9/2010,Extinction,Extinction,Stratified random,Random forest
+155,C03H201,12/9/2010,Extinction,Extinction,Stratified random,Random forest
+156,C03H401,12/9/2010,Completion,Completion,Stratified random,Random forest
+157,C05M101,12/14/10,Extinction,Extinction,Stratified random,Random forest
+158,C05M201,12/14/10,Extinction,Extinction,Stratified random,Random forest
+159,C05M301,12/14/10,Extinction,Extinction,Stratified random,Random forest
+160,C05M401,12/14/10,Extinction,Extinction,Stratified random,Random forest
+161,C06M101,12/28/10,Extinction,Extinction,Stratified random,Random forest
+162,C06M201,12/28/10,Extinction,Extinction,Stratified random,Random forest
+163,C06M301,12/28/10,Extinction,Extinction,Stratified random,Random forest
+164,C06M401,12/28/10,Extinction,Extinction,Stratified random,Random forest
+165,C03H302,12/9/2010,Extinction,Completion,Stratified random,Random forest
+166,C07M101,1/12/2011,Extinction,Extinction,Stratified random,Random forest
+167,C07M201,1/12/2011,Extinction,Extinction,Stratified random,Random forest
+168,C15M101,1/18/2011,Disruption,Extinction,Stratified random,Random forest
+169,C15M201,1/18/2011,Extinction,Extinction,Stratified random,Random forest
+170,C15M301,1/18/2011,Extinction,Disruption,Stratified random,Random forest
+171,C03H501,2/21/2011,Extinction,Extinction,Stratified random,Random forest
+172,C03H601,2/21/2011,Extinction,Extinction,Stratified random,Random forest
+173,C03H701,2/21/2011,Disruption,Completion,Stratified random,Random forest
+174,C08H502,2/21/2011,Disruption,Disruption,Stratified random,Random forest
+175,C08H601,2/21/2011,Disruption,Disruption,Stratified random,Random forest
+176,C08M501,4/18/2011,Extinction,Disruption,Stratified random,Random forest
+177,C08M601,4/18/2011,Extinction,Disruption,Stratified random,Random forest
+178,C09H501,4/20/2011,Extinction,Extinction,Stratified random,Random forest
+179,C09H601,4/20/2011,Disruption,Disruption,Stratified random,Random forest
+180,C02H101,4/20/2011,Extinction,Extinction,Stratified random,Random forest
+181,C02H201,4/20/2011,Extinction,Disruption,Stratified random,Random forest
+182,C02H202,4/20/2011,Disruption,Extinction,Stratified random,Random forest
+183,C09M501,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+184,C09M502,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+185,C09M601,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+186,C09M701,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+187,C02M101,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+188,C02M201,8/8/2011,Extinction,Extinction,Stratified random,Random forest
+189,C03M501,8/9/2011,Extinction,Extinction,Stratified random,Random forest
+190,C03M601,8/9/2011,Extinction,Extinction,Stratified random,Random forest
+191,C03M701,8/9/2011,Extinction,Extinction,Stratified random,Random forest
+192,C04M101,8/9/2011,Extinction,Extinction,Stratified random,Random forest
+193,C04M201,8/9/2011,Extinction,Extinction,Stratified random,Random forest
+194,C04H101,8/17/2011,Extinction,Extinction,Stratified random,Random forest
+195,C04H201,8/17/2011,Extinction,Extinction,Stratified random,Random forest
+196,C01H501,8/18/2011,Extinction,Extinction,Stratified random,Random forest
+197,C01H601,8/18/2011,Extinction,Disruption,Stratified random,Random forest
+198,C01H701,8/18/2011,Disruption,Disruption,Stratified random,Random forest
+199,C01M501,8/24/2011,Extinction,Extinction,Stratified random,Random forest
+200,C01M602,8/24/2011,Extinction,Extinction,Stratified random,Random forest
+201,C01M603,8/24/2011,Extinction,Extinction,Stratified random,Random forest
+202,N01M101,8/24/2011,Extinction,Extinction,Stratified random,Random forest
+203,N01M201,8/24/2011,Extinction,Extinction,Stratified random,Random forest
+204,N01H101,8/29/2011,Disruption,Disruption,Stratified random,Random forest
+205,N01H102,8/29/2011,Disruption,Disruption,Stratified random,Random forest
+206,N01H201,8/29/2011,Disruption,Disruption,Stratified random,Random forest
+207,N01H202,8/29/2011,Completion,Disruption,Stratified random,Random forest
+208,N01H301,8/29/2011,Completion,Disruption,Stratified random,Random forest
+209,N02H101,8/29/2011,Extinction,Extinction,Stratified random,Random forest
+210,N02H201,8/29/2011,Extinction,Extinction,Stratified random,Random forest
+211,N02H203,8/30/2011,Extinction,Extinction,Stratified random,Random forest
+212,N03H101,9/1/2011,Extinction,Extinction,Stratified random,Random forest
+213,N04H101,9/1/2011,Extinction,Extinction,Stratified random,Random forest
+214,N04H201,9/1/2011,Extinction,Extinction,Stratified random,Random forest
+215,N04M101,9/8/2011,Extinction,Extinction,Stratified random,Random forest
+216,N04M201,9/8/2011,Extinction,Extinction,Stratified random,Random forest
+217,N05M101,9/8/2011,Extinction,Extinction,Stratified random,Random forest
+218,N05M201,9/8/2011,Extinction,Extinction,Stratified random,Random forest
+219,N06M101,9/9/2011,Extinction,Extinction,Stratified random,Random forest
+220,N06M201,9/9/2011,Extinction,Extinction,Stratified random,Random forest
+221,N06M202,9/9/2011,Extinction,Extinction,Stratified random,Random forest
+222,H01M102,9/9/2011,Extinction,Extinction,Stratified random,Random forest
+223,H01M104,9/9/2011,Extinction,Extinction,Stratified random,Random forest
+224,H01H102,9/13/2011,Completion,Disruption,Stratified random,Random forest
+225,H02M101,9/21/2011,Extinction,Extinction,Stratified random,Random forest
+226,H03M101,9/22/2011,Extinction,Extinction,Stratified random,Random forest
+227,H03M201,9/22/2011,Extinction,Extinction,Stratified random,Random forest
+228,N01H401,9/23/2011,Extinction,Completion,Stratified random,Random forest
+229,N01H502,9/24/2011,Disruption,Completion,Stratified random,Random forest
+230,N01H601,9/24/2011,Extinction,Disruption,Stratified random,Random forest
+231,H02H101,9/24/2011,Disruption,Extinction,Stratified random,Random forest
+232,H03H101,9/27/2011,Extinction,Extinction,Stratified random,Random forest
+233,H03H201,9/27/2011,Completion,Completion,Stratified random,Random forest
+234,H03H202,9/27/2011,Completion,Completion,Stratified random,Random forest
+235,H04H101,9/27/2011,Extinction,Extinction,Stratified random,Random forest
+236,H04H201,9/27/2011,Extinction,Extinction,Stratified random,Random forest
+237,H04H302,9/27/2011,Disruption,Extinction,Stratified random,Random forest
+238,H04H303,9/27/2011,Completion,Extinction,Stratified random,Random forest
+239,H04M101,10/1/2011,Extinction,Extinction,Stratified random,Random forest
+240,H04M202,10/1/2011,Extinction,Extinction,Stratified random,Random forest
+241,H05M102,10/1/2011,Extinction,Extinction,Stratified random,Random forest
+242,H05M202,10/1/2011,Extinction,Extinction,Stratified random,Random forest
+243,H05H103,10/5/2011,Extinction,Completion,Stratified random,Random forest
+244,H06M102,10/7/2011,Extinction,Extinction,Stratified random,Random forest
+245,H06M201,10/7/2011,Extinction,Extinction,Stratified random,Random forest
+246,H07M101,10/7/2011,Extinction,Extinction,Stratified random,Random forest
+247,H07M202,10/7/2011,Extinction,Extinction,Stratified random,Random forest
+248,H08M101,10/11/11,Extinction,Extinction,Stratified random,Random forest
+249,H10H101,10/12/11,Extinction,Extinction,Stratified random,Random forest
+250,H11H101,10/12/11,Completion,Extinction,Stratified random,Random forest
+251,H10M101,11/18/11,Extinction,Disruption,Stratified random,Random forest
+252,H10M102,11/18/11,Disruption,Extinction,Stratified random,Random forest
+253,H11M101,11/18/11,Extinction,Disruption,Stratified random,Random forest
+254,H11M102,11/18/11,Disruption,Extinction,Stratified random,Random forest
+255,H12M101,11/18/11,Extinction,Extinction,Stratified random,Random forest
+256,H12M102,11/18/11,Extinction,Extinction,Stratified random,Random forest
+257,H12M201,11/18/11,Extinction,Extinction,Stratified random,Random forest
+258,H12H101,11/22/11,Extinction,Extinction,Stratified random,Random forest
+259,H12H201,11/22/11,Extinction,Extinction,Stratified random,Random forest
+260,H13H101,11/22/11,Extinction,Extinction,Stratified random,Random forest
+261,H13H201,11/22/11,Extinction,Extinction,Stratified random,Random forest
+262,H13M102,11/28/11,Extinction,Extinction,Stratified random,Random forest
+263,H13M201,11/28/11,Extinction,Extinction,Stratified random,Random forest
+264,H14M101,11/28/11,Extinction,Extinction,Stratified random,Random forest
+265,H14M201,11/28/11,Extinction,Extinction,Stratified random,Random forest
+266,H14M202,11/28/11,Extinction,Extinction,Stratified random,Random forest
+267,H14H101,11/30/11,Extinction,Extinction,Stratified random,Random forest
+268,H14H201,11/30/11,Extinction,Extinction,Stratified random,Random forest
+269,H15H101,11/30/11,Extinction,Extinction,Stratified random,Random forest
+270,H15H201,11/30/11,Completion,Extinction,Stratified random,Random forest
+271,H15M102,12/5/2011,Extinction,Extinction,Stratified random,Random forest
+272,H15M201,12/5/2011,Extinction,Extinction,Stratified random,Random forest
+273,H19H101,12/8/2011,Extinction,Extinction,Stratified random,Random forest
+274,H19H201,12/8/2011,Extinction,Completion,Stratified random,Random forest
+1,20CAL08,3/5/2009,Disruption,Extinction,Date grouped,Majority baseline
+2,20CAL10,3/5/2009,Extinction,Extinction,Date grouped,Majority baseline
+3,20CAL12,3/5/2009,Extinction,Extinction,Date grouped,Majority baseline
+4,30CAL02,3/31/2009,Extinction,Extinction,Date grouped,Majority baseline
+5,30CAL03,3/31/2009,Extinction,Extinction,Date grouped,Majority baseline
+6,40CAL01,3/31/2009,Extinction,Extinction,Date grouped,Majority baseline
+7,20CAL13,4/10/2009,Disruption,Extinction,Date grouped,Majority baseline
+8,30CAL06,4/10/2009,Disruption,Extinction,Date grouped,Majority baseline
+9,30CAL07,4/10/2009,Disruption,Extinction,Date grouped,Majority baseline
+10,256F002,5/22/2009,Extinction,Extinction,Date grouped,Majority baseline
+11,256R001,5/22/2009,Extinction,Extinction,Date grouped,Majority baseline
+12,264F003,5/22/2009,Disruption,Extinction,Date grouped,Majority baseline
+13,256R002,6/25/2009,Extinction,Extinction,Date grouped,Majority baseline
+14,256F007,6/29/2009,Extinction,Extinction,Date grouped,Majority baseline
+15,256F008,6/29/2009,Extinction,Extinction,Date grouped,Majority baseline
+16,256F009,6/29/2009,Extinction,Extinction,Date grouped,Majority baseline
+17,240R003,7/1/2009,Disruption,Extinction,Date grouped,Majority baseline
+18,248F001,7/1/2009,Extinction,Extinction,Date grouped,Majority baseline
+19,196F001,8/26/2009,Disruption,Extinction,Date grouped,Majority baseline
+20,192F001,10/24/09,Completion,Extinction,Date grouped,Majority baseline
+21,192F002,10/24/09,Disruption,Extinction,Date grouped,Majority baseline
+22,192F003,10/24/09,Disruption,Extinction,Date grouped,Majority baseline
+23,196F002,10/24/09,Disruption,Extinction,Date grouped,Majority baseline
+24,196F003,10/24/09,Disruption,Extinction,Date grouped,Majority baseline
+25,191R001,11/9/2009,Completion,Extinction,Date grouped,Majority baseline
+26,191F001,11/9/2009,Disruption,Extinction,Date grouped,Majority baseline
+27,195F001,11/9/2009,Disruption,Extinction,Date grouped,Majority baseline
+28,195F002,11/9/2009,Disruption,Extinction,Date grouped,Majority baseline
+29,178R001,11/13/09,Completion,Extinction,Date grouped,Majority baseline
+30,178F001,11/13/09,Extinction,Extinction,Date grouped,Majority baseline
+31,182F001,11/13/09,Disruption,Extinction,Date grouped,Majority baseline
+32,182F002,11/13/09,Completion,Extinction,Date grouped,Majority baseline
+33,177R002,11/27/09,Extinction,Extinction,Date grouped,Majority baseline
+34,177F001,11/27/09,Extinction,Extinction,Date grouped,Majority baseline
+35,181F001,11/27/09,Extinction,Extinction,Date grouped,Majority baseline
+36,190R002,12/15/09,Extinction,Extinction,Date grouped,Majority baseline
+37,220R001,1/7/2010,Disruption,Extinction,Date grouped,Majority baseline
+38,220R002,1/7/2010,Disruption,Extinction,Date grouped,Majority baseline
+39,224F001,1/7/2010,Disruption,Extinction,Date grouped,Majority baseline
+40,219R001,1/8/2010,Disruption,Extinction,Date grouped,Majority baseline
+41,219F001,1/8/2010,Disruption,Extinction,Date grouped,Majority baseline
+42,223F001,1/8/2010,Disruption,Extinction,Date grouped,Majority baseline
+43,223F002,1/8/2010,Disruption,Extinction,Date grouped,Majority baseline
+44,206F001,1/11/2010,Disruption,Extinction,Date grouped,Majority baseline
+45,206R001,1/11/2010,Extinction,Extinction,Date grouped,Majority baseline
+46,205R001,1/12/2010,Disruption,Extinction,Date grouped,Majority baseline
+47,209F001,1/12/2010,Completion,Extinction,Date grouped,Majority baseline
+48,205F001,1/12/2010,Disruption,Extinction,Date grouped,Majority baseline
+49,209F003,1/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+50,209F004,1/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+51,209F005,1/19/2010,Completion,Extinction,Date grouped,Majority baseline
+52,210F002,1/11/2010,Disruption,Extinction,Date grouped,Majority baseline
+53,209F002,1/12/2010,Disruption,Extinction,Date grouped,Majority baseline
+54,190F003,1/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+55,218F001,1/29/2010,Disruption,Extinction,Date grouped,Majority baseline
+56,194F001,1/29/2010,Completion,Extinction,Date grouped,Majority baseline
+57,303F001,1/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+58,176F001,2/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+59,176R001,2/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+60,204F001,2/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+61,204R001,2/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+62,301F001,3/11/2010,Extinction,Extinction,Date grouped,Majority baseline
+63,301F002,3/11/2010,Completion,Extinction,Date grouped,Majority baseline
+64,302F001,3/11/2010,Extinction,Extinction,Date grouped,Majority baseline
+65,189R001,3/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+66,189F001,3/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+67,189F002,3/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+68,189R003,3/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+69,193R002,3/23/2010,Completion,Extinction,Date grouped,Majority baseline
+70,193F001,3/23/2010,Extinction,Extinction,Date grouped,Majority baseline
+71,189R002,3/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+72,193R001,3/23/2010,Completion,Extinction,Date grouped,Majority baseline
+73,193F001,3/23/2010,Extinction,Extinction,Date grouped,Majority baseline
+74,221F001,3/23/2010,Completion,Extinction,Date grouped,Majority baseline
+75,203R002,3/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+76,203F001,3/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+77,175R001,3/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+78,175F001,3/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+79,179F001,3/30/2010,Extinction,Extinction,Date grouped,Majority baseline
+80,207F001,3/30/2010,Extinction,Extinction,Date grouped,Majority baseline
+81,207F002,3/30/2010,Extinction,Extinction,Date grouped,Majority baseline
+82,304F001,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+83,304F002,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+84,304R001,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+85,304R002,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+86,305F002,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+87,305F003,4/19/2010,Extinction,Extinction,Date grouped,Majority baseline
+88,053R001,5/5/2010,Disruption,Extinction,Date grouped,Majority baseline
+89,053F001,5/5/2010,Disruption,Extinction,Date grouped,Majority baseline
+90,141R001,5/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+91,141F001,5/5/2010,Disruption,Extinction,Date grouped,Majority baseline
+92,061F002,6/14/2010,Disruption,Extinction,Date grouped,Majority baseline
+93,149F001,6/15/2010,Disruption,Extinction,Date grouped,Majority baseline
+94,C08H101,6/15/2010,Extinction,Extinction,Date grouped,Majority baseline
+95,C08H201,6/15/2010,Extinction,Extinction,Date grouped,Majority baseline
+96,C08H301,6/15/2010,Disruption,Extinction,Date grouped,Majority baseline
+97,C08M101,6/16/2010,Completion,Extinction,Date grouped,Majority baseline
+98,C09M201,6/21/2010,Extinction,Extinction,Date grouped,Majority baseline
+99,C09M101,6/21/2010,Extinction,Extinction,Date grouped,Majority baseline
+100,C09H101,6/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+101,C09H201,6/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+102,C10H101,6/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+103,C10H201,6/29/2010,Extinction,Extinction,Date grouped,Majority baseline
+104,C08M201,6/16/2010,Extinction,Extinction,Date grouped,Majority baseline
+105,C08M301,6/16/2010,Disruption,Extinction,Date grouped,Majority baseline
+106,C09M401,6/21/2010,Disruption,Extinction,Date grouped,Majority baseline
+107,C08M401,6/16/2010,Disruption,Extinction,Date grouped,Majority baseline
+108,C09M301,6/21/2010,Completion,Extinction,Date grouped,Majority baseline
+109,C10M102,8/31/2010,Extinction,Extinction,Date grouped,Majority baseline
+110,C10M201,8/31/2010,Extinction,Extinction,Date grouped,Majority baseline
+111,C10M303,8/31/2010,Completion,Extinction,Date grouped,Majority baseline
+112,C10M401,9/1/2010,Completion,Extinction,Date grouped,Majority baseline
+113,C11M101,9/1/2010,Extinction,Extinction,Date grouped,Majority baseline
+115,C11M301,9/1/2010,Extinction,Extinction,Date grouped,Majority baseline
+116,C11M401,9/1/2010,Extinction,Extinction,Date grouped,Majority baseline
+117,C11H101,9/6/2010,Extinction,Extinction,Date grouped,Majority baseline
+118,C11H201,9/6/2010,Extinction,Extinction,Date grouped,Majority baseline
+119,C12H103,9/7/2010,Extinction,Extinction,Date grouped,Majority baseline
+120,C12H201,9/7/2010,Extinction,Extinction,Date grouped,Majority baseline
+121,C12M101,9/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+122,C12M201,9/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+123,C12M301,9/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+124,C12M401,9/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+125,C13M103,9/13/2010,Extinction,Extinction,Date grouped,Majority baseline
+126,C13M201,9/13/2010,Extinction,Extinction,Date grouped,Majority baseline
+127,C13M301,9/13/2010,Extinction,Extinction,Date grouped,Majority baseline
+128,C13M401,9/13/2010,Extinction,Extinction,Date grouped,Majority baseline
+129,C13H102,9/17/2010,Extinction,Extinction,Date grouped,Majority baseline
+130,C13H201,9/17/2010,Extinction,Extinction,Date grouped,Majority baseline
+131,C21H101,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+132,C21H201,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+133,C21H301,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+134,C21H401,10/6/2010,Extinction,Extinction,Date grouped,Majority baseline
+135,C21H501,10/6/2010,Completion,Extinction,Date grouped,Majority baseline
+136,C21H302,10/6/2010,Completion,Extinction,Date grouped,Majority baseline
+137,C21H303,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+138,C21H304,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+139,C21H305,10/6/2010,Disruption,Extinction,Date grouped,Majority baseline
+140,C14M101,11/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+141,C14M201,11/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+142,C14M301,11/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+143,C14M302,11/4/2010,Extinction,Extinction,Date grouped,Majority baseline
+144,C01M101,11/16/10,Extinction,Extinction,Date grouped,Majority baseline
+145,C01M201,11/16/10,Extinction,Extinction,Date grouped,Majority baseline
+146,C01M301,11/16/10,Extinction,Extinction,Date grouped,Majority baseline
+147,C13M102,9/13/2010,Extinction,Extinction,Date grouped,Majority baseline
+148,C01H101,11/18/10,Disruption,Extinction,Date grouped,Majority baseline
+149,C01H201,11/18/10,Disruption,Extinction,Date grouped,Majority baseline
+150,C01H302,11/18/10,Extinction,Extinction,Date grouped,Majority baseline
+151,C03M101,12/8/2010,Completion,Extinction,Date grouped,Majority baseline
+152,C03M201,12/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+153,C03M301,12/8/2010,Extinction,Extinction,Date grouped,Majority baseline
+154,C03H101,12/9/2010,Extinction,Extinction,Date grouped,Majority baseline
+155,C03H201,12/9/2010,Extinction,Extinction,Date grouped,Majority baseline
+156,C03H401,12/9/2010,Completion,Extinction,Date grouped,Majority baseline
+157,C05M101,12/14/10,Extinction,Extinction,Date grouped,Majority baseline
+158,C05M201,12/14/10,Extinction,Extinction,Date grouped,Majority baseline
+159,C05M301,12/14/10,Extinction,Extinction,Date grouped,Majority baseline
+160,C05M401,12/14/10,Extinction,Extinction,Date grouped,Majority baseline
+161,C06M101,12/28/10,Extinction,Extinction,Date grouped,Majority baseline
+162,C06M201,12/28/10,Extinction,Extinction,Date grouped,Majority baseline
+163,C06M301,12/28/10,Extinction,Extinction,Date grouped,Majority baseline
+164,C06M401,12/28/10,Extinction,Extinction,Date grouped,Majority baseline
+165,C03H302,12/9/2010,Extinction,Extinction,Date grouped,Majority baseline
+166,C07M101,1/12/2011,Extinction,Extinction,Date grouped,Majority baseline
+167,C07M201,1/12/2011,Extinction,Extinction,Date grouped,Majority baseline
+168,C15M101,1/18/2011,Disruption,Extinction,Date grouped,Majority baseline
+169,C15M201,1/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+170,C15M301,1/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+171,C03H501,2/21/2011,Extinction,Extinction,Date grouped,Majority baseline
+172,C03H601,2/21/2011,Extinction,Extinction,Date grouped,Majority baseline
+173,C03H701,2/21/2011,Disruption,Extinction,Date grouped,Majority baseline
+174,C08H502,2/21/2011,Disruption,Extinction,Date grouped,Majority baseline
+175,C08H601,2/21/2011,Disruption,Extinction,Date grouped,Majority baseline
+176,C08M501,4/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+177,C08M601,4/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+178,C09H501,4/20/2011,Extinction,Extinction,Date grouped,Majority baseline
+179,C09H601,4/20/2011,Disruption,Extinction,Date grouped,Majority baseline
+180,C02H101,4/20/2011,Extinction,Extinction,Date grouped,Majority baseline
+181,C02H201,4/20/2011,Extinction,Extinction,Date grouped,Majority baseline
+182,C02H202,4/20/2011,Disruption,Extinction,Date grouped,Majority baseline
+183,C09M501,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+184,C09M502,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+185,C09M601,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+186,C09M701,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+187,C02M101,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+188,C02M201,8/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+189,C03M501,8/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+190,C03M601,8/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+191,C03M701,8/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+192,C04M101,8/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+193,C04M201,8/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+194,C04H101,8/17/2011,Extinction,Extinction,Date grouped,Majority baseline
+195,C04H201,8/17/2011,Extinction,Extinction,Date grouped,Majority baseline
+196,C01H501,8/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+197,C01H601,8/18/2011,Extinction,Extinction,Date grouped,Majority baseline
+198,C01H701,8/18/2011,Disruption,Extinction,Date grouped,Majority baseline
+199,C01M501,8/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+200,C01M602,8/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+201,C01M603,8/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+202,N01M101,8/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+203,N01M201,8/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+204,N01H101,8/29/2011,Disruption,Extinction,Date grouped,Majority baseline
+205,N01H102,8/29/2011,Disruption,Extinction,Date grouped,Majority baseline
+206,N01H201,8/29/2011,Disruption,Extinction,Date grouped,Majority baseline
+207,N01H202,8/29/2011,Completion,Extinction,Date grouped,Majority baseline
+208,N01H301,8/29/2011,Completion,Extinction,Date grouped,Majority baseline
+209,N02H101,8/29/2011,Extinction,Extinction,Date grouped,Majority baseline
+210,N02H201,8/29/2011,Extinction,Extinction,Date grouped,Majority baseline
+211,N02H203,8/30/2011,Extinction,Extinction,Date grouped,Majority baseline
+212,N03H101,9/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+213,N04H101,9/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+214,N04H201,9/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+215,N04M101,9/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+216,N04M201,9/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+217,N05M101,9/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+218,N05M201,9/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+219,N06M101,9/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+220,N06M201,9/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+221,N06M202,9/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+222,H01M102,9/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+223,H01M104,9/9/2011,Extinction,Extinction,Date grouped,Majority baseline
+224,H01H102,9/13/2011,Completion,Extinction,Date grouped,Majority baseline
+225,H02M101,9/21/2011,Extinction,Extinction,Date grouped,Majority baseline
+226,H03M101,9/22/2011,Extinction,Extinction,Date grouped,Majority baseline
+227,H03M201,9/22/2011,Extinction,Extinction,Date grouped,Majority baseline
+228,N01H401,9/23/2011,Extinction,Extinction,Date grouped,Majority baseline
+229,N01H502,9/24/2011,Disruption,Extinction,Date grouped,Majority baseline
+230,N01H601,9/24/2011,Extinction,Extinction,Date grouped,Majority baseline
+231,H02H101,9/24/2011,Disruption,Extinction,Date grouped,Majority baseline
+232,H03H101,9/27/2011,Extinction,Extinction,Date grouped,Majority baseline
+233,H03H201,9/27/2011,Completion,Extinction,Date grouped,Majority baseline
+234,H03H202,9/27/2011,Completion,Extinction,Date grouped,Majority baseline
+235,H04H101,9/27/2011,Extinction,Extinction,Date grouped,Majority baseline
+236,H04H201,9/27/2011,Extinction,Extinction,Date grouped,Majority baseline
+237,H04H302,9/27/2011,Disruption,Extinction,Date grouped,Majority baseline
+238,H04H303,9/27/2011,Completion,Extinction,Date grouped,Majority baseline
+239,H04M101,10/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+240,H04M202,10/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+241,H05M102,10/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+242,H05M202,10/1/2011,Extinction,Extinction,Date grouped,Majority baseline
+243,H05H103,10/5/2011,Extinction,Extinction,Date grouped,Majority baseline
+244,H06M102,10/7/2011,Extinction,Extinction,Date grouped,Majority baseline
+245,H06M201,10/7/2011,Extinction,Extinction,Date grouped,Majority baseline
+246,H07M101,10/7/2011,Extinction,Extinction,Date grouped,Majority baseline
+247,H07M202,10/7/2011,Extinction,Extinction,Date grouped,Majority baseline
+248,H08M101,10/11/11,Extinction,Extinction,Date grouped,Majority baseline
+249,H10H101,10/12/11,Extinction,Extinction,Date grouped,Majority baseline
+250,H11H101,10/12/11,Completion,Extinction,Date grouped,Majority baseline
+251,H10M101,11/18/11,Extinction,Extinction,Date grouped,Majority baseline
+252,H10M102,11/18/11,Disruption,Extinction,Date grouped,Majority baseline
+253,H11M101,11/18/11,Extinction,Extinction,Date grouped,Majority baseline
+254,H11M102,11/18/11,Disruption,Extinction,Date grouped,Majority baseline
+255,H12M101,11/18/11,Extinction,Extinction,Date grouped,Majority baseline
+256,H12M102,11/18/11,Extinction,Extinction,Date grouped,Majority baseline
+257,H12M201,11/18/11,Extinction,Extinction,Date grouped,Majority baseline
+258,H12H101,11/22/11,Extinction,Extinction,Date grouped,Majority baseline
+259,H12H201,11/22/11,Extinction,Extinction,Date grouped,Majority baseline
+260,H13H101,11/22/11,Extinction,Extinction,Date grouped,Majority baseline
+261,H13H201,11/22/11,Extinction,Extinction,Date grouped,Majority baseline
+262,H13M102,11/28/11,Extinction,Extinction,Date grouped,Majority baseline
+263,H13M201,11/28/11,Extinction,Extinction,Date grouped,Majority baseline
+264,H14M101,11/28/11,Extinction,Extinction,Date grouped,Majority baseline
+265,H14M201,11/28/11,Extinction,Extinction,Date grouped,Majority baseline
+266,H14M202,11/28/11,Extinction,Extinction,Date grouped,Majority baseline
+267,H14H101,11/30/11,Extinction,Extinction,Date grouped,Majority baseline
+268,H14H201,11/30/11,Extinction,Extinction,Date grouped,Majority baseline
+269,H15H101,11/30/11,Extinction,Extinction,Date grouped,Majority baseline
+270,H15H201,11/30/11,Completion,Extinction,Date grouped,Majority baseline
+271,H15M102,12/5/2011,Extinction,Extinction,Date grouped,Majority baseline
+272,H15M201,12/5/2011,Extinction,Extinction,Date grouped,Majority baseline
+273,H19H101,12/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+274,H19H201,12/8/2011,Extinction,Extinction,Date grouped,Majority baseline
+1,20CAL08,3/5/2009,Disruption,Completion,Date grouped,Multinomial logistic regression
+2,20CAL10,3/5/2009,Extinction,Completion,Date grouped,Multinomial logistic regression
+3,20CAL12,3/5/2009,Extinction,Completion,Date grouped,Multinomial logistic regression
+4,30CAL02,3/31/2009,Extinction,Completion,Date grouped,Multinomial logistic regression
+5,30CAL03,3/31/2009,Extinction,Completion,Date grouped,Multinomial logistic regression
+6,40CAL01,3/31/2009,Extinction,Completion,Date grouped,Multinomial logistic regression
+7,20CAL13,4/10/2009,Disruption,Completion,Date grouped,Multinomial logistic regression
+8,30CAL06,4/10/2009,Disruption,Completion,Date grouped,Multinomial logistic regression
+9,30CAL07,4/10/2009,Disruption,Completion,Date grouped,Multinomial logistic regression
+10,256F002,5/22/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+11,256R001,5/22/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+12,264F003,5/22/2009,Disruption,Disruption,Date grouped,Multinomial logistic regression
+13,256R002,6/25/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+14,256F007,6/29/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+15,256F008,6/29/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+16,256F009,6/29/2009,Extinction,Disruption,Date grouped,Multinomial logistic regression
+17,240R003,7/1/2009,Disruption,Extinction,Date grouped,Multinomial logistic regression
+18,248F001,7/1/2009,Extinction,Extinction,Date grouped,Multinomial logistic regression
+19,196F001,8/26/2009,Disruption,Disruption,Date grouped,Multinomial logistic regression
+20,192F001,10/24/09,Completion,Disruption,Date grouped,Multinomial logistic regression
+21,192F002,10/24/09,Disruption,Disruption,Date grouped,Multinomial logistic regression
+22,192F003,10/24/09,Disruption,Disruption,Date grouped,Multinomial logistic regression
+23,196F002,10/24/09,Disruption,Disruption,Date grouped,Multinomial logistic regression
+24,196F003,10/24/09,Disruption,Disruption,Date grouped,Multinomial logistic regression
+25,191R001,11/9/2009,Completion,Disruption,Date grouped,Multinomial logistic regression
+26,191F001,11/9/2009,Disruption,Disruption,Date grouped,Multinomial logistic regression
+27,195F001,11/9/2009,Disruption,Disruption,Date grouped,Multinomial logistic regression
+28,195F002,11/9/2009,Disruption,Disruption,Date grouped,Multinomial logistic regression
+29,178R001,11/13/09,Completion,Disruption,Date grouped,Multinomial logistic regression
+30,178F001,11/13/09,Extinction,Disruption,Date grouped,Multinomial logistic regression
+31,182F001,11/13/09,Disruption,Disruption,Date grouped,Multinomial logistic regression
+32,182F002,11/13/09,Completion,Disruption,Date grouped,Multinomial logistic regression
+33,177R002,11/27/09,Extinction,Completion,Date grouped,Multinomial logistic regression
+34,177F001,11/27/09,Extinction,Extinction,Date grouped,Multinomial logistic regression
+35,181F001,11/27/09,Extinction,Completion,Date grouped,Multinomial logistic regression
+36,190R002,12/15/09,Extinction,Completion,Date grouped,Multinomial logistic regression
+37,220R001,1/7/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+38,220R002,1/7/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+39,224F001,1/7/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+40,219R001,1/8/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+41,219F001,1/8/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+42,223F001,1/8/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+43,223F002,1/8/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+44,206F001,1/11/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+45,206R001,1/11/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+46,205R001,1/12/2010,Disruption,Completion,Date grouped,Multinomial logistic regression
+47,209F001,1/12/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+48,205F001,1/12/2010,Disruption,Extinction,Date grouped,Multinomial logistic regression
+49,209F003,1/19/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+50,209F004,1/19/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+51,209F005,1/19/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+52,210F002,1/11/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+53,209F002,1/12/2010,Disruption,Completion,Date grouped,Multinomial logistic regression
+54,190F003,1/29/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+55,218F001,1/29/2010,Disruption,Extinction,Date grouped,Multinomial logistic regression
+56,194F001,1/29/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+57,303F001,1/29/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+58,176F001,2/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+59,176R001,2/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+60,204F001,2/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+61,204R001,2/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+62,301F001,3/11/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+63,301F002,3/11/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+64,302F001,3/11/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+65,189R001,3/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+66,189F001,3/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+67,189F002,3/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+68,189R003,3/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+69,193R002,3/23/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+70,193F001,3/23/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+71,189R002,3/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+72,193R001,3/23/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+73,193F001,3/23/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+74,221F001,3/23/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+75,203R002,3/29/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+76,203F001,3/29/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+77,175R001,3/29/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+78,175F001,3/29/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+79,179F001,3/30/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+80,207F001,3/30/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+81,207F002,3/30/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+82,304F001,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+83,304F002,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+84,304R001,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+85,304R002,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+86,305F002,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+87,305F003,4/19/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+88,053R001,5/5/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+89,053F001,5/5/2010,Disruption,Completion,Date grouped,Multinomial logistic regression
+90,141R001,5/6/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+91,141F001,5/5/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+92,061F002,6/14/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+93,149F001,6/15/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+94,C08H101,6/15/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+95,C08H201,6/15/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+96,C08H301,6/15/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+97,C08M101,6/16/2010,Completion,Extinction,Date grouped,Multinomial logistic regression
+98,C09M201,6/21/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+99,C09M101,6/21/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+100,C09H101,6/29/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+101,C09H201,6/29/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+102,C10H101,6/29/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+103,C10H201,6/29/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+104,C08M201,6/16/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+105,C08M301,6/16/2010,Disruption,Extinction,Date grouped,Multinomial logistic regression
+106,C09M401,6/21/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+107,C08M401,6/16/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+108,C09M301,6/21/2010,Completion,Extinction,Date grouped,Multinomial logistic regression
+109,C10M102,8/31/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+110,C10M201,8/31/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+111,C10M303,8/31/2010,Completion,Extinction,Date grouped,Multinomial logistic regression
+112,C10M401,9/1/2010,Completion,Extinction,Date grouped,Multinomial logistic regression
+113,C11M101,9/1/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+115,C11M301,9/1/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+116,C11M401,9/1/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+117,C11H101,9/6/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+118,C11H201,9/6/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+119,C12H103,9/7/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+120,C12H201,9/7/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+121,C12M101,9/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+122,C12M201,9/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+123,C12M301,9/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+124,C12M401,9/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+125,C13M103,9/13/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+126,C13M201,9/13/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+127,C13M301,9/13/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+128,C13M401,9/13/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+129,C13H102,9/17/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+130,C13H201,9/17/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+131,C21H101,10/6/2010,Disruption,Completion,Date grouped,Multinomial logistic regression
+132,C21H201,10/6/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+133,C21H301,10/6/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+134,C21H401,10/6/2010,Extinction,Disruption,Date grouped,Multinomial logistic regression
+135,C21H501,10/6/2010,Completion,Disruption,Date grouped,Multinomial logistic regression
+136,C21H302,10/6/2010,Completion,Disruption,Date grouped,Multinomial logistic regression
+137,C21H303,10/6/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+138,C21H304,10/6/2010,Disruption,Disruption,Date grouped,Multinomial logistic regression
+139,C21H305,10/6/2010,Disruption,Completion,Date grouped,Multinomial logistic regression
+140,C14M101,11/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+141,C14M201,11/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+142,C14M301,11/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+143,C14M302,11/4/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+144,C01M101,11/16/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+145,C01M201,11/16/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+146,C01M301,11/16/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+147,C13M102,9/13/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+148,C01H101,11/18/10,Disruption,Completion,Date grouped,Multinomial logistic regression
+149,C01H201,11/18/10,Disruption,Completion,Date grouped,Multinomial logistic regression
+150,C01H302,11/18/10,Extinction,Disruption,Date grouped,Multinomial logistic regression
+151,C03M101,12/8/2010,Completion,Extinction,Date grouped,Multinomial logistic regression
+152,C03M201,12/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+153,C03M301,12/8/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+154,C03H101,12/9/2010,Extinction,Extinction,Date grouped,Multinomial logistic regression
+155,C03H201,12/9/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+156,C03H401,12/9/2010,Completion,Completion,Date grouped,Multinomial logistic regression
+157,C05M101,12/14/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+158,C05M201,12/14/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+159,C05M301,12/14/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+160,C05M401,12/14/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+161,C06M101,12/28/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+162,C06M201,12/28/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+163,C06M301,12/28/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+164,C06M401,12/28/10,Extinction,Extinction,Date grouped,Multinomial logistic regression
+165,C03H302,12/9/2010,Extinction,Completion,Date grouped,Multinomial logistic regression
+166,C07M101,1/12/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+167,C07M201,1/12/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+168,C15M101,1/18/2011,Disruption,Extinction,Date grouped,Multinomial logistic regression
+169,C15M201,1/18/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+170,C15M301,1/18/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+171,C03H501,2/21/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+172,C03H601,2/21/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+173,C03H701,2/21/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+174,C08H502,2/21/2011,Disruption,Disruption,Date grouped,Multinomial logistic regression
+175,C08H601,2/21/2011,Disruption,Disruption,Date grouped,Multinomial logistic regression
+176,C08M501,4/18/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+177,C08M601,4/18/2011,Extinction,Disruption,Date grouped,Multinomial logistic regression
+178,C09H501,4/20/2011,Extinction,Disruption,Date grouped,Multinomial logistic regression
+179,C09H601,4/20/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+180,C02H101,4/20/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+181,C02H201,4/20/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+182,C02H202,4/20/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+183,C09M501,8/8/2011,Extinction,Disruption,Date grouped,Multinomial logistic regression
+184,C09M502,8/8/2011,Extinction,Disruption,Date grouped,Multinomial logistic regression
+185,C09M601,8/8/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+186,C09M701,8/8/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+187,C02M101,8/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+188,C02M201,8/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+189,C03M501,8/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+190,C03M601,8/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+191,C03M701,8/9/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+192,C04M101,8/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+193,C04M201,8/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+194,C04H101,8/17/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+195,C04H201,8/17/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+196,C01H501,8/18/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+197,C01H601,8/18/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+198,C01H701,8/18/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+199,C01M501,8/24/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+200,C01M602,8/24/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+201,C01M603,8/24/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+202,N01M101,8/24/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+203,N01M201,8/24/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+204,N01H101,8/29/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+205,N01H102,8/29/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+206,N01H201,8/29/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+207,N01H202,8/29/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+208,N01H301,8/29/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+209,N02H101,8/29/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+210,N02H201,8/29/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+211,N02H203,8/30/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+212,N03H101,9/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+213,N04H101,9/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+214,N04H201,9/1/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+215,N04M101,9/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+216,N04M201,9/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+217,N05M101,9/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+218,N05M201,9/8/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+219,N06M101,9/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+220,N06M201,9/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+221,N06M202,9/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+222,H01M102,9/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+223,H01M104,9/9/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+224,H01H102,9/13/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+225,H02M101,9/21/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+226,H03M101,9/22/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+227,H03M201,9/22/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+228,N01H401,9/23/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+229,N01H502,9/24/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+230,N01H601,9/24/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+231,H02H101,9/24/2011,Disruption,Completion,Date grouped,Multinomial logistic regression
+232,H03H101,9/27/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+233,H03H201,9/27/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+234,H03H202,9/27/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+235,H04H101,9/27/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+236,H04H201,9/27/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+237,H04H302,9/27/2011,Disruption,Extinction,Date grouped,Multinomial logistic regression
+238,H04H303,9/27/2011,Completion,Completion,Date grouped,Multinomial logistic regression
+239,H04M101,10/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+240,H04M202,10/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+241,H05M102,10/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+242,H05M202,10/1/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+243,H05H103,10/5/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+244,H06M102,10/7/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+245,H06M201,10/7/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+246,H07M101,10/7/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+247,H07M202,10/7/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+248,H08M101,10/11/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+249,H10H101,10/12/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+250,H11H101,10/12/11,Completion,Completion,Date grouped,Multinomial logistic regression
+251,H10M101,11/18/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+252,H10M102,11/18/11,Disruption,Completion,Date grouped,Multinomial logistic regression
+253,H11M101,11/18/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+254,H11M102,11/18/11,Disruption,Completion,Date grouped,Multinomial logistic regression
+255,H12M101,11/18/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+256,H12M102,11/18/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+257,H12M201,11/18/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+258,H12H101,11/22/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+259,H12H201,11/22/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+260,H13H101,11/22/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+261,H13H201,11/22/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+262,H13M102,11/28/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+263,H13M201,11/28/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+264,H14M101,11/28/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+265,H14M201,11/28/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+266,H14M202,11/28/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+267,H14H101,11/30/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+268,H14H201,11/30/11,Extinction,Completion,Date grouped,Multinomial logistic regression
+269,H15H101,11/30/11,Extinction,Extinction,Date grouped,Multinomial logistic regression
+270,H15H201,11/30/11,Completion,Extinction,Date grouped,Multinomial logistic regression
+271,H15M102,12/5/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+272,H15M201,12/5/2011,Extinction,Extinction,Date grouped,Multinomial logistic regression
+273,H19H101,12/8/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+274,H19H201,12/8/2011,Extinction,Completion,Date grouped,Multinomial logistic regression
+1,20CAL08,3/5/2009,Disruption,Extinction,Date grouped,Random forest
+2,20CAL10,3/5/2009,Extinction,Extinction,Date grouped,Random forest
+3,20CAL12,3/5/2009,Extinction,Extinction,Date grouped,Random forest
+4,30CAL02,3/31/2009,Extinction,Extinction,Date grouped,Random forest
+5,30CAL03,3/31/2009,Extinction,Extinction,Date grouped,Random forest
+6,40CAL01,3/31/2009,Extinction,Extinction,Date grouped,Random forest
+7,20CAL13,4/10/2009,Disruption,Disruption,Date grouped,Random forest
+8,30CAL06,4/10/2009,Disruption,Disruption,Date grouped,Random forest
+9,30CAL07,4/10/2009,Disruption,Disruption,Date grouped,Random forest
+10,256F002,5/22/2009,Extinction,Extinction,Date grouped,Random forest
+11,256R001,5/22/2009,Extinction,Disruption,Date grouped,Random forest
+12,264F003,5/22/2009,Disruption,Extinction,Date grouped,Random forest
+13,256R002,6/25/2009,Extinction,Extinction,Date grouped,Random forest
+14,256F007,6/29/2009,Extinction,Extinction,Date grouped,Random forest
+15,256F008,6/29/2009,Extinction,Extinction,Date grouped,Random forest
+16,256F009,6/29/2009,Extinction,Extinction,Date grouped,Random forest
+17,240R003,7/1/2009,Disruption,Extinction,Date grouped,Random forest
+18,248F001,7/1/2009,Extinction,Disruption,Date grouped,Random forest
+19,196F001,8/26/2009,Disruption,Disruption,Date grouped,Random forest
+20,192F001,10/24/09,Completion,Disruption,Date grouped,Random forest
+21,192F002,10/24/09,Disruption,Disruption,Date grouped,Random forest
+22,192F003,10/24/09,Disruption,Disruption,Date grouped,Random forest
+23,196F002,10/24/09,Disruption,Disruption,Date grouped,Random forest
+24,196F003,10/24/09,Disruption,Disruption,Date grouped,Random forest
+25,191R001,11/9/2009,Completion,Disruption,Date grouped,Random forest
+26,191F001,11/9/2009,Disruption,Disruption,Date grouped,Random forest
+27,195F001,11/9/2009,Disruption,Disruption,Date grouped,Random forest
+28,195F002,11/9/2009,Disruption,Disruption,Date grouped,Random forest
+29,178R001,11/13/09,Completion,Extinction,Date grouped,Random forest
+30,178F001,11/13/09,Extinction,Disruption,Date grouped,Random forest
+31,182F001,11/13/09,Disruption,Disruption,Date grouped,Random forest
+32,182F002,11/13/09,Completion,Disruption,Date grouped,Random forest
+33,177R002,11/27/09,Extinction,Extinction,Date grouped,Random forest
+34,177F001,11/27/09,Extinction,Extinction,Date grouped,Random forest
+35,181F001,11/27/09,Extinction,Extinction,Date grouped,Random forest
+36,190R002,12/15/09,Extinction,Extinction,Date grouped,Random forest
+37,220R001,1/7/2010,Disruption,Disruption,Date grouped,Random forest
+38,220R002,1/7/2010,Disruption,Disruption,Date grouped,Random forest
+39,224F001,1/7/2010,Disruption,Disruption,Date grouped,Random forest
+40,219R001,1/8/2010,Disruption,Disruption,Date grouped,Random forest
+41,219F001,1/8/2010,Disruption,Disruption,Date grouped,Random forest
+42,223F001,1/8/2010,Disruption,Disruption,Date grouped,Random forest
+43,223F002,1/8/2010,Disruption,Disruption,Date grouped,Random forest
+44,206F001,1/11/2010,Disruption,Disruption,Date grouped,Random forest
+45,206R001,1/11/2010,Extinction,Completion,Date grouped,Random forest
+46,205R001,1/12/2010,Disruption,Extinction,Date grouped,Random forest
+47,209F001,1/12/2010,Completion,Extinction,Date grouped,Random forest
+48,205F001,1/12/2010,Disruption,Extinction,Date grouped,Random forest
+49,209F003,1/19/2010,Extinction,Extinction,Date grouped,Random forest
+50,209F004,1/19/2010,Extinction,Extinction,Date grouped,Random forest
+51,209F005,1/19/2010,Completion,Disruption,Date grouped,Random forest
+52,210F002,1/11/2010,Disruption,Completion,Date grouped,Random forest
+53,209F002,1/12/2010,Disruption,Disruption,Date grouped,Random forest
+54,190F003,1/29/2010,Extinction,Extinction,Date grouped,Random forest
+55,218F001,1/29/2010,Disruption,Extinction,Date grouped,Random forest
+56,194F001,1/29/2010,Completion,Extinction,Date grouped,Random forest
+57,303F001,1/29/2010,Extinction,Extinction,Date grouped,Random forest
+58,176F001,2/4/2010,Extinction,Extinction,Date grouped,Random forest
+59,176R001,2/4/2010,Extinction,Extinction,Date grouped,Random forest
+60,204F001,2/4/2010,Extinction,Extinction,Date grouped,Random forest
+61,204R001,2/4/2010,Extinction,Extinction,Date grouped,Random forest
+62,301F001,3/11/2010,Extinction,Extinction,Date grouped,Random forest
+63,301F002,3/11/2010,Completion,Completion,Date grouped,Random forest
+64,302F001,3/11/2010,Extinction,Extinction,Date grouped,Random forest
+65,189R001,3/19/2010,Extinction,Extinction,Date grouped,Random forest
+66,189F001,3/19/2010,Extinction,Extinction,Date grouped,Random forest
+67,189F002,3/19/2010,Extinction,Extinction,Date grouped,Random forest
+68,189R003,3/19/2010,Extinction,Extinction,Date grouped,Random forest
+69,193R002,3/23/2010,Completion,Extinction,Date grouped,Random forest
+70,193F001,3/23/2010,Extinction,Extinction,Date grouped,Random forest
+71,189R002,3/19/2010,Extinction,Extinction,Date grouped,Random forest
+72,193R001,3/23/2010,Completion,Extinction,Date grouped,Random forest
+73,193F001,3/23/2010,Extinction,Extinction,Date grouped,Random forest
+74,221F001,3/23/2010,Completion,Extinction,Date grouped,Random forest
+75,203R002,3/29/2010,Extinction,Extinction,Date grouped,Random forest
+76,203F001,3/29/2010,Extinction,Extinction,Date grouped,Random forest
+77,175R001,3/29/2010,Extinction,Extinction,Date grouped,Random forest
+78,175F001,3/29/2010,Extinction,Extinction,Date grouped,Random forest
+79,179F001,3/30/2010,Extinction,Extinction,Date grouped,Random forest
+80,207F001,3/30/2010,Extinction,Extinction,Date grouped,Random forest
+81,207F002,3/30/2010,Extinction,Extinction,Date grouped,Random forest
+82,304F001,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+83,304F002,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+84,304R001,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+85,304R002,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+86,305F002,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+87,305F003,4/19/2010,Extinction,Extinction,Date grouped,Random forest
+88,053R001,5/5/2010,Disruption,Disruption,Date grouped,Random forest
+89,053F001,5/5/2010,Disruption,Disruption,Date grouped,Random forest
+90,141R001,5/6/2010,Disruption,Disruption,Date grouped,Random forest
+91,141F001,5/5/2010,Disruption,Disruption,Date grouped,Random forest
+92,061F002,6/14/2010,Disruption,Disruption,Date grouped,Random forest
+93,149F001,6/15/2010,Disruption,Disruption,Date grouped,Random forest
+94,C08H101,6/15/2010,Extinction,Disruption,Date grouped,Random forest
+95,C08H201,6/15/2010,Extinction,Disruption,Date grouped,Random forest
+96,C08H301,6/15/2010,Disruption,Disruption,Date grouped,Random forest
+97,C08M101,6/16/2010,Completion,Extinction,Date grouped,Random forest
+98,C09M201,6/21/2010,Extinction,Extinction,Date grouped,Random forest
+99,C09M101,6/21/2010,Extinction,Extinction,Date grouped,Random forest
+100,C09H101,6/29/2010,Extinction,Extinction,Date grouped,Random forest
+101,C09H201,6/29/2010,Extinction,Disruption,Date grouped,Random forest
+102,C10H101,6/29/2010,Extinction,Extinction,Date grouped,Random forest
+103,C10H201,6/29/2010,Extinction,Extinction,Date grouped,Random forest
+104,C08M201,6/16/2010,Extinction,Extinction,Date grouped,Random forest
+105,C08M301,6/16/2010,Disruption,Extinction,Date grouped,Random forest
+106,C09M401,6/21/2010,Disruption,Extinction,Date grouped,Random forest
+107,C08M401,6/16/2010,Disruption,Extinction,Date grouped,Random forest
+108,C09M301,6/21/2010,Completion,Extinction,Date grouped,Random forest
+109,C10M102,8/31/2010,Extinction,Extinction,Date grouped,Random forest
+110,C10M201,8/31/2010,Extinction,Extinction,Date grouped,Random forest
+111,C10M303,8/31/2010,Completion,Extinction,Date grouped,Random forest
+112,C10M401,9/1/2010,Completion,Extinction,Date grouped,Random forest
+113,C11M101,9/1/2010,Extinction,Extinction,Date grouped,Random forest
+115,C11M301,9/1/2010,Extinction,Extinction,Date grouped,Random forest
+116,C11M401,9/1/2010,Extinction,Extinction,Date grouped,Random forest
+117,C11H101,9/6/2010,Extinction,Extinction,Date grouped,Random forest
+118,C11H201,9/6/2010,Extinction,Extinction,Date grouped,Random forest
+119,C12H103,9/7/2010,Extinction,Extinction,Date grouped,Random forest
+120,C12H201,9/7/2010,Extinction,Extinction,Date grouped,Random forest
+121,C12M101,9/8/2010,Extinction,Extinction,Date grouped,Random forest
+122,C12M201,9/8/2010,Extinction,Extinction,Date grouped,Random forest
+123,C12M301,9/8/2010,Extinction,Extinction,Date grouped,Random forest
+124,C12M401,9/8/2010,Extinction,Extinction,Date grouped,Random forest
+125,C13M103,9/13/2010,Extinction,Extinction,Date grouped,Random forest
+126,C13M201,9/13/2010,Extinction,Extinction,Date grouped,Random forest
+127,C13M301,9/13/2010,Extinction,Extinction,Date grouped,Random forest
+128,C13M401,9/13/2010,Extinction,Extinction,Date grouped,Random forest
+129,C13H102,9/17/2010,Extinction,Extinction,Date grouped,Random forest
+130,C13H201,9/17/2010,Extinction,Extinction,Date grouped,Random forest
+131,C21H101,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+132,C21H201,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+133,C21H301,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+134,C21H401,10/6/2010,Extinction,Extinction,Date grouped,Random forest
+135,C21H501,10/6/2010,Completion,Disruption,Date grouped,Random forest
+136,C21H302,10/6/2010,Completion,Disruption,Date grouped,Random forest
+137,C21H303,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+138,C21H304,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+139,C21H305,10/6/2010,Disruption,Disruption,Date grouped,Random forest
+140,C14M101,11/4/2010,Extinction,Extinction,Date grouped,Random forest
+141,C14M201,11/4/2010,Extinction,Extinction,Date grouped,Random forest
+142,C14M301,11/4/2010,Extinction,Extinction,Date grouped,Random forest
+143,C14M302,11/4/2010,Extinction,Extinction,Date grouped,Random forest
+144,C01M101,11/16/10,Extinction,Extinction,Date grouped,Random forest
+145,C01M201,11/16/10,Extinction,Extinction,Date grouped,Random forest
+146,C01M301,11/16/10,Extinction,Extinction,Date grouped,Random forest
+147,C13M102,9/13/2010,Extinction,Extinction,Date grouped,Random forest
+148,C01H101,11/18/10,Disruption,Extinction,Date grouped,Random forest
+149,C01H201,11/18/10,Disruption,Completion,Date grouped,Random forest
+150,C01H302,11/18/10,Extinction,Extinction,Date grouped,Random forest
+151,C03M101,12/8/2010,Completion,Extinction,Date grouped,Random forest
+152,C03M201,12/8/2010,Extinction,Extinction,Date grouped,Random forest
+153,C03M301,12/8/2010,Extinction,Extinction,Date grouped,Random forest
+154,C03H101,12/9/2010,Extinction,Extinction,Date grouped,Random forest
+155,C03H201,12/9/2010,Extinction,Extinction,Date grouped,Random forest
+156,C03H401,12/9/2010,Completion,Completion,Date grouped,Random forest
+157,C05M101,12/14/10,Extinction,Extinction,Date grouped,Random forest
+158,C05M201,12/14/10,Extinction,Extinction,Date grouped,Random forest
+159,C05M301,12/14/10,Extinction,Extinction,Date grouped,Random forest
+160,C05M401,12/14/10,Extinction,Extinction,Date grouped,Random forest
+161,C06M101,12/28/10,Extinction,Extinction,Date grouped,Random forest
+162,C06M201,12/28/10,Extinction,Extinction,Date grouped,Random forest
+163,C06M301,12/28/10,Extinction,Extinction,Date grouped,Random forest
+164,C06M401,12/28/10,Extinction,Extinction,Date grouped,Random forest
+165,C03H302,12/9/2010,Extinction,Disruption,Date grouped,Random forest
+166,C07M101,1/12/2011,Extinction,Extinction,Date grouped,Random forest
+167,C07M201,1/12/2011,Extinction,Extinction,Date grouped,Random forest
+168,C15M101,1/18/2011,Disruption,Extinction,Date grouped,Random forest
+169,C15M201,1/18/2011,Extinction,Extinction,Date grouped,Random forest
+170,C15M301,1/18/2011,Extinction,Disruption,Date grouped,Random forest
+171,C03H501,2/21/2011,Extinction,Extinction,Date grouped,Random forest
+172,C03H601,2/21/2011,Extinction,Extinction,Date grouped,Random forest
+173,C03H701,2/21/2011,Disruption,Completion,Date grouped,Random forest
+174,C08H502,2/21/2011,Disruption,Disruption,Date grouped,Random forest
+175,C08H601,2/21/2011,Disruption,Disruption,Date grouped,Random forest
+176,C08M501,4/18/2011,Extinction,Disruption,Date grouped,Random forest
+177,C08M601,4/18/2011,Extinction,Disruption,Date grouped,Random forest
+178,C09H501,4/20/2011,Extinction,Disruption,Date grouped,Random forest
+179,C09H601,4/20/2011,Disruption,Disruption,Date grouped,Random forest
+180,C02H101,4/20/2011,Extinction,Extinction,Date grouped,Random forest
+181,C02H201,4/20/2011,Extinction,Extinction,Date grouped,Random forest
+182,C02H202,4/20/2011,Disruption,Disruption,Date grouped,Random forest
+183,C09M501,8/8/2011,Extinction,Completion,Date grouped,Random forest
+184,C09M502,8/8/2011,Extinction,Disruption,Date grouped,Random forest
+185,C09M601,8/8/2011,Extinction,Disruption,Date grouped,Random forest
+186,C09M701,8/8/2011,Extinction,Disruption,Date grouped,Random forest
+187,C02M101,8/8/2011,Extinction,Extinction,Date grouped,Random forest
+188,C02M201,8/8/2011,Extinction,Extinction,Date grouped,Random forest
+189,C03M501,8/9/2011,Extinction,Extinction,Date grouped,Random forest
+190,C03M601,8/9/2011,Extinction,Extinction,Date grouped,Random forest
+191,C03M701,8/9/2011,Extinction,Extinction,Date grouped,Random forest
+192,C04M101,8/9/2011,Extinction,Extinction,Date grouped,Random forest
+193,C04M201,8/9/2011,Extinction,Extinction,Date grouped,Random forest
+194,C04H101,8/17/2011,Extinction,Extinction,Date grouped,Random forest
+195,C04H201,8/17/2011,Extinction,Extinction,Date grouped,Random forest
+196,C01H501,8/18/2011,Extinction,Extinction,Date grouped,Random forest
+197,C01H601,8/18/2011,Extinction,Extinction,Date grouped,Random forest
+198,C01H701,8/18/2011,Disruption,Disruption,Date grouped,Random forest
+199,C01M501,8/24/2011,Extinction,Extinction,Date grouped,Random forest
+200,C01M602,8/24/2011,Extinction,Extinction,Date grouped,Random forest
+201,C01M603,8/24/2011,Extinction,Extinction,Date grouped,Random forest
+202,N01M101,8/24/2011,Extinction,Extinction,Date grouped,Random forest
+203,N01M201,8/24/2011,Extinction,Extinction,Date grouped,Random forest
+204,N01H101,8/29/2011,Disruption,Extinction,Date grouped,Random forest
+205,N01H102,8/29/2011,Disruption,Extinction,Date grouped,Random forest
+206,N01H201,8/29/2011,Disruption,Disruption,Date grouped,Random forest
+207,N01H202,8/29/2011,Completion,Disruption,Date grouped,Random forest
+208,N01H301,8/29/2011,Completion,Disruption,Date grouped,Random forest
+209,N02H101,8/29/2011,Extinction,Extinction,Date grouped,Random forest
+210,N02H201,8/29/2011,Extinction,Extinction,Date grouped,Random forest
+211,N02H203,8/30/2011,Extinction,Extinction,Date grouped,Random forest
+212,N03H101,9/1/2011,Extinction,Extinction,Date grouped,Random forest
+213,N04H101,9/1/2011,Extinction,Extinction,Date grouped,Random forest
+214,N04H201,9/1/2011,Extinction,Extinction,Date grouped,Random forest
+215,N04M101,9/8/2011,Extinction,Extinction,Date grouped,Random forest
+216,N04M201,9/8/2011,Extinction,Extinction,Date grouped,Random forest
+217,N05M101,9/8/2011,Extinction,Extinction,Date grouped,Random forest
+218,N05M201,9/8/2011,Extinction,Extinction,Date grouped,Random forest
+219,N06M101,9/9/2011,Extinction,Extinction,Date grouped,Random forest
+220,N06M201,9/9/2011,Extinction,Extinction,Date grouped,Random forest
+221,N06M202,9/9/2011,Extinction,Extinction,Date grouped,Random forest
+222,H01M102,9/9/2011,Extinction,Extinction,Date grouped,Random forest
+223,H01M104,9/9/2011,Extinction,Extinction,Date grouped,Random forest
+224,H01H102,9/13/2011,Completion,Disruption,Date grouped,Random forest
+225,H02M101,9/21/2011,Extinction,Extinction,Date grouped,Random forest
+226,H03M101,9/22/2011,Extinction,Extinction,Date grouped,Random forest
+227,H03M201,9/22/2011,Extinction,Extinction,Date grouped,Random forest
+228,N01H401,9/23/2011,Extinction,Completion,Date grouped,Random forest
+229,N01H502,9/24/2011,Disruption,Completion,Date grouped,Random forest
+230,N01H601,9/24/2011,Extinction,Extinction,Date grouped,Random forest
+231,H02H101,9/24/2011,Disruption,Extinction,Date grouped,Random forest
+232,H03H101,9/27/2011,Extinction,Extinction,Date grouped,Random forest
+233,H03H201,9/27/2011,Completion,Extinction,Date grouped,Random forest
+234,H03H202,9/27/2011,Completion,Completion,Date grouped,Random forest
+235,H04H101,9/27/2011,Extinction,Extinction,Date grouped,Random forest
+236,H04H201,9/27/2011,Extinction,Extinction,Date grouped,Random forest
+237,H04H302,9/27/2011,Disruption,Extinction,Date grouped,Random forest
+238,H04H303,9/27/2011,Completion,Completion,Date grouped,Random forest
+239,H04M101,10/1/2011,Extinction,Extinction,Date grouped,Random forest
+240,H04M202,10/1/2011,Extinction,Extinction,Date grouped,Random forest
+241,H05M102,10/1/2011,Extinction,Extinction,Date grouped,Random forest
+242,H05M202,10/1/2011,Extinction,Extinction,Date grouped,Random forest
+243,H05H103,10/5/2011,Extinction,Completion,Date grouped,Random forest
+244,H06M102,10/7/2011,Extinction,Extinction,Date grouped,Random forest
+245,H06M201,10/7/2011,Extinction,Extinction,Date grouped,Random forest
+246,H07M101,10/7/2011,Extinction,Extinction,Date grouped,Random forest
+247,H07M202,10/7/2011,Extinction,Extinction,Date grouped,Random forest
+248,H08M101,10/11/11,Extinction,Extinction,Date grouped,Random forest
+249,H10H101,10/12/11,Extinction,Disruption,Date grouped,Random forest
+250,H11H101,10/12/11,Completion,Extinction,Date grouped,Random forest
+251,H10M101,11/18/11,Extinction,Extinction,Date grouped,Random forest
+252,H10M102,11/18/11,Disruption,Extinction,Date grouped,Random forest
+253,H11M101,11/18/11,Extinction,Extinction,Date grouped,Random forest
+254,H11M102,11/18/11,Disruption,Extinction,Date grouped,Random forest
+255,H12M101,11/18/11,Extinction,Extinction,Date grouped,Random forest
+256,H12M102,11/18/11,Extinction,Extinction,Date grouped,Random forest
+257,H12M201,11/18/11,Extinction,Extinction,Date grouped,Random forest
+258,H12H101,11/22/11,Extinction,Extinction,Date grouped,Random forest
+259,H12H201,11/22/11,Extinction,Extinction,Date grouped,Random forest
+260,H13H101,11/22/11,Extinction,Extinction,Date grouped,Random forest
+261,H13H201,11/22/11,Extinction,Extinction,Date grouped,Random forest
+262,H13M102,11/28/11,Extinction,Extinction,Date grouped,Random forest
+263,H13M201,11/28/11,Extinction,Extinction,Date grouped,Random forest
+264,H14M101,11/28/11,Extinction,Extinction,Date grouped,Random forest
+265,H14M201,11/28/11,Extinction,Extinction,Date grouped,Random forest
+266,H14M202,11/28/11,Extinction,Extinction,Date grouped,Random forest
+267,H14H101,11/30/11,Extinction,Extinction,Date grouped,Random forest
+268,H14H201,11/30/11,Extinction,Extinction,Date grouped,Random forest
+269,H15H101,11/30/11,Extinction,Extinction,Date grouped,Random forest
+270,H15H201,11/30/11,Completion,Completion,Date grouped,Random forest
+271,H15M102,12/5/2011,Extinction,Extinction,Date grouped,Random forest
+272,H15M201,12/5/2011,Extinction,Extinction,Date grouped,Random forest
+273,H19H101,12/8/2011,Extinction,Extinction,Date grouped,Random forest
+274,H19H201,12/8/2011,Extinction,Completion,Date grouped,Random forest
